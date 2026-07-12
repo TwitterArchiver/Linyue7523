@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2022672393404318144",
+    "created_at": "2026-02-14T16:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022714443847864754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022714443847864754",
+    "in_reply_to_user_id": "1675133488524328961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022672393404318144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 不可以啊喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022672379311464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBH5z_naoAAh2hB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2022672393404318144",
+        "created_at": "2026-02-14T16:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022714443847864754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022714443847864754",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022672393404318144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 不可以啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022672379311464448"
+          ]
+        },
+        "author_id": "1675133488524328961",
+        "conversation_id": "2022672393404318144",
+        "created_at": "2026-02-14T14:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022672393404318144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY9QpiIILi",
+              "end": 30,
+              "expanded_url": "https://x.com/Kietter387803/status/2022672393404318144/photo/1",
+              "media_key": "3_2022672379311464448",
+              "start": 7,
+              "url": "https://t.co/XY9QpiIILi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022672393404318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换衣间的露出 https://t.co/XY9QpiIILi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 1522,
+          "like_count": 20179,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 2906
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "不是博主就是一个臭玩香水的。。。绝赞心悸应激患者，隐藏中二少女…☪️🔯喵呜～很喜欢你们，如果能多多看我就更喜欢了。正确的是，快点看着我啊…………@Linyue7523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Linyue7523"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "2016142502802415956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017536799367958529/5I3hycbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6384,
+          "following_count": 1509,
+          "like_count": 24161,
+          "listed_count": 16,
+          "media_count": 3547,
+          "tweet_count": 21226
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

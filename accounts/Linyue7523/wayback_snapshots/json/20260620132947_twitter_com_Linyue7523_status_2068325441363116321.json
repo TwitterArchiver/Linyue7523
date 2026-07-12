@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068325431661797376"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2068325441363116321",
+    "created_at": "2026-06-20T13:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068325441363116321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/csc0OqxJgX",
+          "end": 58,
+          "expanded_url": "https://x.com/Linyue7523/status/2068325441363116321/photo/1",
+          "media_key": "3_2068325431661797376",
+          "start": 35,
+          "url": "https://t.co/csc0OqxJgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068325441363116321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友有没有那种圈内人都第一眼看不出是东方的图\n放个蕾米莉亚在这里（） https://t.co/csc0OqxJgX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_2068325431661797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQrBYoboAAfWh8.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068325431661797376"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2068325441363116321",
+        "created_at": "2026-06-20T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068325441363116321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csc0OqxJgX",
+              "end": 58,
+              "expanded_url": "https://x.com/Linyue7523/status/2068325441363116321/photo/1",
+              "media_key": "3_2068325431661797376",
+              "start": 35,
+              "url": "https://t.co/csc0OqxJgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068325441363116321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友有没有那种圈内人都第一眼看不出是东方的图\n放个蕾米莉亚在这里（） https://t.co/csc0OqxJgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3922,
+          "following_count": 1709,
+          "like_count": 22170,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

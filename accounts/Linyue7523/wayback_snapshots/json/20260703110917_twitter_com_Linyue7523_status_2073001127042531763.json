@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073001116141535232",
+        "3_2073001116141596673",
+        "3_2073001116124745728",
+        "3_2073001116137369600"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2073001127042531763",
+    "created_at": "2026-07-03T11:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073001127042531763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8CKKO4a8DP",
+          "end": 165,
+          "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+          "media_key": "3_2073001116141535232",
+          "start": 142,
+          "url": "https://t.co/8CKKO4a8DP"
+        },
+        {
+          "display_url": "pic.x.com/8CKKO4a8DP",
+          "end": 165,
+          "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+          "media_key": "3_2073001116141596673",
+          "start": 142,
+          "url": "https://t.co/8CKKO4a8DP"
+        },
+        {
+          "display_url": "pic.x.com/8CKKO4a8DP",
+          "end": 165,
+          "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+          "media_key": "3_2073001116124745728",
+          "start": 142,
+          "url": "https://t.co/8CKKO4a8DP"
+        },
+        {
+          "display_url": "pic.x.com/8CKKO4a8DP",
+          "end": 165,
+          "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+          "media_key": "3_2073001116137369600",
+          "start": 142,
+          "url": "https://t.co/8CKKO4a8DP"
+        },
+        {
+          "display_url": "x.com/linyue7523/sta…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/linyue7523/status/1887823892170920223",
+          "start": 166,
+          "url": "https://t.co/xGl864PIvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073001127042531763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887823892170920223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据受害者提供的消息\n重庆可山枳璞教育在2025年7月场地到期后转为赋苗健康产业（重庆）有限公司/赋苗健康产业（重庆）有限公司，在媒体报道后停业并在专案组的眼下转移至重庆慧之帆教育咨询有限公司\n目前持续寻找赋苗教育或校长为廖莎莎，张宏，何俊逸的戒网瘾机构受害者中\n志愿者持续跟进案件中 https://t.co/8CKKO4a8DP https://t.co/xGl864PIvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073001116141535232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTHiCqawAADJhr.jpg",
+        "width": 949
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2073001116141596673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTHiCqbsAEC7Kj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2073001116124745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTHiCmakAAQ4W0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2073001116137369600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTHiCpbMAAXu3w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1887823240241754112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLlPCFWMAAWbaY.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1887823237532340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLlO3_X0AAvkgN.jpg",
+        "width": 684
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1887823237792329728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLlO49W8AAviLI.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1887823663874945024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLlnsPXsAAsUWp.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073001116141535232",
+            "3_2073001116141596673",
+            "3_2073001116124745728",
+            "3_2073001116137369600"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073001127042531763",
+        "created_at": "2026-07-03T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073001127042531763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CKKO4a8DP",
+              "end": 165,
+              "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+              "media_key": "3_2073001116141535232",
+              "start": 142,
+              "url": "https://t.co/8CKKO4a8DP"
+            },
+            {
+              "display_url": "pic.x.com/8CKKO4a8DP",
+              "end": 165,
+              "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+              "media_key": "3_2073001116141596673",
+              "start": 142,
+              "url": "https://t.co/8CKKO4a8DP"
+            },
+            {
+              "display_url": "pic.x.com/8CKKO4a8DP",
+              "end": 165,
+              "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+              "media_key": "3_2073001116124745728",
+              "start": 142,
+              "url": "https://t.co/8CKKO4a8DP"
+            },
+            {
+              "display_url": "pic.x.com/8CKKO4a8DP",
+              "end": 165,
+              "expanded_url": "https://x.com/Linyue7523/status/2073001127042531763/photo/1",
+              "media_key": "3_2073001116137369600",
+              "start": 142,
+              "url": "https://t.co/8CKKO4a8DP"
+            },
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/linyue7523/status/1887823892170920223",
+              "start": 166,
+              "url": "https://t.co/xGl864PIvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073001127042531763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887823892170920223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据受害者提供的消息\n重庆可山枳璞教育在2025年7月场地到期后转为赋苗健康产业（重庆）有限公司/赋苗健康产业（重庆）有限公司，在媒体报道后停业并在专案组的眼下转移至重庆慧之帆教育咨询有限公司\n目前持续寻找赋苗教育或校长为廖莎莎，张宏，何俊逸的戒网瘾机构受害者中\n志愿者持续跟进案件中 https://t.co/8CKKO4a8DP https://t.co/xGl864PIvp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887823240241754112",
+            "3_1887823237532340224",
+            "3_1887823237792329728",
+            "3_1887823663874945024"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1887823892170920223",
+        "created_at": "2025-02-07T11:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887823892170920223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823240241754112",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823237532340224",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823237792329728",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            },
+            {
+              "display_url": "pic.x.com/VTQ0mbG6UW",
+              "end": 175,
+              "expanded_url": "https://x.com/Nuominiang75884/status/1887823892170920223/photo/1",
+              "media_key": "3_1887823663874945024",
+              "start": 152,
+              "url": "https://t.co/VTQ0mbG6UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887823892170920223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 78447,
+          "like_count": 440,
+          "quote_count": 10,
+          "reply_count": 38,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "2025年1月28日凌晨被送入\n重庆枳璞教育的跨性别女性@ling2589906742，其家长在我与牧鸢提供的矫正机构内卧底视频打动，决定将受害者接回，她与今日凌晨被放出机构并成功的与我们取得联系，她仅仅在学校待了九天就被打成了骨折与脑缺氧，并且在受害者骨折之后还在继续，受害者已离开学校，我们打算维权 https://t.co/VTQ0mbG6UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 1741,
+          "like_count": 22414,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 3085
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

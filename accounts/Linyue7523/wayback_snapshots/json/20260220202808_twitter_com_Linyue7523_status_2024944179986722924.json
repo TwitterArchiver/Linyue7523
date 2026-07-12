@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024944173984743425"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2024944179986722924",
+    "created_at": "2026-02-20T20:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T21:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024944179986722924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsNSCoUkdl",
+          "end": 79,
+          "expanded_url": "https://x.com/Linyue7523/status/2024944179986722924/photo/1",
+          "media_key": "3_2024944173984743425",
+          "start": 56,
+          "url": "https://t.co/NsNSCoUkdl"
+        },
+        {
+          "display_url": "x.com/linyue7523/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/linyue7523/status/2024739218468258082",
+          "start": 80,
+          "url": "https://t.co/efAPVycv50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024944179986722924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024739218468258082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析：2点报警+4点出警+4点半到达现场=凌晨四点报的警\n身份证号+姓名+家庭地址+手机号+qq=信息太少 https://t.co/NsNSCoUkdl https://t.co/efAPVycv50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024944173984743425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoL_2RbgAEaYRr.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024944173984743425"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2024944179986722924",
+        "created_at": "2026-02-20T20:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024944179986722924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsNSCoUkdl",
+              "end": 79,
+              "expanded_url": "https://x.com/Linyue7523/status/2024944179986722924/photo/1",
+              "media_key": "3_2024944173984743425",
+              "start": 56,
+              "url": "https://t.co/NsNSCoUkdl"
+            },
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/linyue7523/status/2024739218468258082",
+              "start": 80,
+              "url": "https://t.co/efAPVycv50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024944179986722924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024739218468258082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：2点报警+4点出警+4点半到达现场=凌晨四点报的警\n身份证号+姓名+家庭地址+手机号+qq=信息太少 https://t.co/NsNSCoUkdl https://t.co/efAPVycv50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2024739218468258082",
+        "created_at": "2026-02-20T06:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024739218468258082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024739218468258082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1508,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2月19号晚上之后我杭州警察的评价是出警速度快，警医联动仅次于上海与北京警方，但是在家暴处理方面不足\n但再怎么说也比山东警察在自杀与性少数问题上2点报警4点出警做得好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 1524,
+          "like_count": 20264,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 2915
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

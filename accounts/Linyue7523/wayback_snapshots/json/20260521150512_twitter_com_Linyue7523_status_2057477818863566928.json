@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057477805160755200"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057477818863566928",
+    "created_at": "2026-05-21T15:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057477818863566928"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 52,
+          "tag": "LimbusCompan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kaqG7THT7C",
+          "end": 89,
+          "expanded_url": "https://x.com/Linyue7523/status/2057477818863566928/photo/1",
+          "media_key": "3_2057477805160755200",
+          "start": 66,
+          "url": "https://t.co/kaqG7THT7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057477818863566928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "良秀啊…啊啊啊啊啊啊啊啊啊啊啊啊啊（哽咽）（狂喜）（阴暗扭曲的爬行）\n感谢小金送给我的良秀啊啊啊啊啊…\n#LimbusCompan https://t.co/kaqG7THT7C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2057477805160755200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2hKa3bcAAsgiE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057477805160755200"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057477818863566928",
+        "created_at": "2026-05-21T15:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057477818863566928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 52,
+              "tag": "LimbusCompan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaqG7THT7C",
+              "end": 89,
+              "expanded_url": "https://x.com/Linyue7523/status/2057477818863566928/photo/1",
+              "media_key": "3_2057477805160755200",
+              "start": 66,
+              "url": "https://t.co/kaqG7THT7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057477818863566928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "良秀啊…啊啊啊啊啊啊啊啊啊啊啊啊啊（哽咽）（狂喜）（阴暗扭曲的爬行）\n感谢小金送给我的良秀啊啊啊啊啊…\n#LimbusCompan https://t.co/kaqG7THT7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055346692913045504/UdOUDg9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3785,
+          "following_count": 1641,
+          "like_count": 21635,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 3033
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

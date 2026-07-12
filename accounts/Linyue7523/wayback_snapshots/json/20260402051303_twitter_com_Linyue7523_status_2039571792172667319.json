@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2039571792172667319",
+    "created_at": "2026-04-02T05:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039571792172667319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1021317681406869505",
+          "start": 3,
+          "username": "ILoveLittlePigs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039571792172667319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039297121619149296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ILoveLittlePigs: 一些作为旁观者的想法：\n\n有杰出贡献不代表可以免受批评。\n被批评不代表可以被迫害。\n被迫害不代表可以无证据地恶意揣测ta人。\n恶意揣测ta人不代表应该被剥夺被关怀的权利。\n承认被关怀的权利不代表否定先前的批评。\n\n永远不要把义愤转化为仇…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2039571792172667319",
+        "created_at": "2026-04-02T05:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039571792172667319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1021317681406869505",
+              "start": 3,
+              "username": "ILoveLittlePigs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039571792172667319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039297121619149296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ILoveLittlePigs: 一些作为旁观者的想法：\n\n有杰出贡献不代表可以免受批评。\n被批评不代表可以被迫害。\n被迫害不代表可以无证据地恶意揣测ta人。\n恶意揣测ta人不代表应该被剥夺被关怀的权利。\n承认被关怀的权利不代表否定先前的批评。\n\n永远不要把义愤转化为仇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021317681406869505",
+        "conversation_id": "2039297121619149296",
+        "created_at": "2026-04-01T11:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:56:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039295762840871085",
+          "2039297121619149296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039297121619149296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "一些作为旁观者的想法：\n\n有杰出贡献不代表可以免受批评。\n被批评不代表可以被迫害。\n被迫害不代表可以无证据地恶意揣测ta人。\n恶意揣测ta人不代表应该被剥夺被关怀的权利。\n承认被关怀的权利不代表否定先前的批评。\n\n永远不要把义愤转化为仇恨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 1546,
+          "like_count": 21182,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2989
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-23T08:54:45.000Z",
+        "description": "Asian gay. Trans ally. Proud AuDHDer. Intersectional feminist. Anti-imperialist. Populist progressivist. Chinese dissident. 致力于在中文圈推动有人性温度的进步政治。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "share.upscrolled.com/en/user/bae1a9…",
+                "end": 23,
+                "expanded_url": "https://share.upscrolled.com/en/user/bae1a91c-1a09-461f-8881-83a4301816bb/",
+                "start": 0,
+                "url": "https://t.co/Ita8RlI2uE"
+              }
+            ]
+          }
+        },
+        "id": "1021317681406869505",
+        "name": "ProgressivePiggy🌹🏳️‍🌈🏳️‍⚧️🇳🇫🇵🇸🇺🇦🇸🇩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551378875095056384/sEa4SUxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1703,
+          "like_count": 24631,
+          "listed_count": 7,
+          "media_count": 205,
+          "tweet_count": 8135
+        },
+        "url": "https://t.co/Ita8RlI2uE",
+        "username": "ILoveLittlePigs",
+        "verified": false
+      }
+    ]
+  }
+}

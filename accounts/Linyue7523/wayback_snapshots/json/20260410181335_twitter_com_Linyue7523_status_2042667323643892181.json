@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2042667323643892181",
+    "created_at": "2026-04-10T18:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042667323643892181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meow5tr/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/meow5tr/status/2042665297711169754",
+          "start": 30,
+          "url": "https://t.co/835mJhEFzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042667323643892181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042665297711169754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人已对受害者进行强干预并委托无利害关系志愿者进行危机干预 https://t.co/835mJhEFzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2042665283773509633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkBQMpXsAEQOV-.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2042667323643892181",
+        "created_at": "2026-04-10T18:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042667323643892181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow5tr/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/meow5tr/status/2042665297711169754",
+              "start": 30,
+              "url": "https://t.co/835mJhEFzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042667323643892181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042665297711169754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人已对受害者进行强干预并委托无利害关系志愿者进行危机干预 https://t.co/835mJhEFzN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042665283773509633"
+          ]
+        },
+        "author_id": "1959422320491347968",
+        "conversation_id": "2042665297711169754",
+        "created_at": "2026-04-10T18:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042665297711169754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766858890636120064",
+              "start": 2,
+              "username": "Linyue7523"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFy0mGtdWE",
+              "end": 57,
+              "expanded_url": "https://x.com/Meow5tr/status/2042665297711169754/photo/1",
+              "media_key": "3_2042665283773509633",
+              "start": 34,
+              "url": "https://t.co/IFy0mGtdWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042665297711169754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被 @Linyue7523 伤害感情了喵…准备尝尝钡钡好不好吃喵… https://t.co/IFy0mGtdWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 1569,
+          "like_count": 21280,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2997
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T01:07:49.000Z",
+        "description": "🍥|司祭|🐱|No Biological Sex|✨：@yaoguangmao|Discipline：Physical Chemi/Quantum phy/Quantum chro/Neurophysi/M-theory|* What went wrong:Who care.|crush:@kurosabikuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "kurosabikuna"
+              }
+            ]
+          }
+        },
+        "id": "1959422320491347968",
+        "name": "Mon5🍥",
+        "pinned_tweet_id": "2023363419693552122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 22,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "username": "Meow5tr",
+        "verified": true
+      }
+    ]
+  }
+}

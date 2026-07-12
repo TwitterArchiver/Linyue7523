@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061810665942306816"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2061810673877942735",
+    "created_at": "2026-06-02T14:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061810673877942735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HB3HGXcYiv",
+          "end": 29,
+          "expanded_url": "https://x.com/Linyue7523/status/2061810673877942735/photo/1",
+          "media_key": "3_2061810665942306816",
+          "start": 6,
+          "url": "https://t.co/HB3HGXcYiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061810673877942735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拉面好吃😋 https://t.co/HB3HGXcYiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061810665942306816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0F4HGaUAAcd8v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061810665942306816"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2061810673877942735",
+        "created_at": "2026-06-02T14:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061810673877942735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HB3HGXcYiv",
+              "end": 29,
+              "expanded_url": "https://x.com/Linyue7523/status/2061810673877942735/photo/1",
+              "media_key": "3_2061810665942306816",
+              "start": 6,
+              "url": "https://t.co/HB3HGXcYiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061810673877942735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉面好吃😋 https://t.co/HB3HGXcYiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055346692913045504/UdOUDg9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 1668,
+          "like_count": 21810,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 3035
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

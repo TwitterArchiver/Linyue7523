@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2038512501810503907",
+    "created_at": "2026-03-30T07:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038512501810503907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        },
+        {
+          "end": 29,
+          "id": "1541248951843663873",
+          "start": 20,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038512501810503907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038266083476750719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: @Anermoka 普通的议论我们也不会有这样的回应，在此之前，温柔救援性少数过程中就基本是隐去其性少数倾向和精神问题，包括我们救援过程如有必要也会如此，也有人问过这是否妥当，为什么只有这次被搞身份政治的引导方向往偏激的方向引导了呢？我告…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038512501810503907",
+        "created_at": "2026-03-30T07:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038512501810503907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            },
+            {
+              "end": 29,
+              "id": "1541248951843663873",
+              "start": 20,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038512501810503907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038266083476750719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: @Anermoka 普通的议论我们也不会有这样的回应，在此之前，温柔救援性少数过程中就基本是隐去其性少数倾向和精神问题，包括我们救援过程如有必要也会如此，也有人问过这是否妥当，为什么只有这次被搞身份政治的引导方向往偏激的方向引导了呢？我告…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647815138450505730",
+        "conversation_id": "2038233221339689098",
+        "created_at": "2026-03-29T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038266083476750719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038266083476750719",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "普通的议论我们也不会有这样的回应，在此之前，温柔救援性少数过程中就基本是隐去其性少数倾向和精神问题，包括我们救援过程如有必要也会如此，也有人问过这是否妥当，为什么只有这次被搞身份政治的引导方向往偏激的方向引导了呢？我告诉你答案，因为这次的当事人是个死者，她无法站出来为救援者说话了，如果我告诉你那个机构里还关着别的跨性别者呢？是现在把还活着的人救出来?还是要停下来指责一下为什么隐去死者的性别认同呢？你自己也知道已经往偏激的方向发展了，你不觉得是，那是因为你不是温柔，不是被搞身份政治的攻击的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038263886483509334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 普通的议论我们也不会有这样的回应，在此之前，温柔救援性少数过程中就基本是隐去其性少数倾向和精神问题，包括我们救援过程如有必要也会如此，也有人问过这是否妥当，为什么只有这次被搞身份政治的引导方向往偏激的方向引导了呢？我告诉你答案，因为这次的当事人是个死者，她无法站出来为救援者说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 1544,
+          "like_count": 21050,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2981
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "2038270183064891463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12153,
+          "following_count": 1563,
+          "like_count": 8161,
+          "listed_count": 33,
+          "media_count": 387,
+          "tweet_count": 2811
+        },
+        "username": "yaming00742313",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "pinned_tweet_id": "2036007608755372410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 205,
+          "like_count": 14060,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 429
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

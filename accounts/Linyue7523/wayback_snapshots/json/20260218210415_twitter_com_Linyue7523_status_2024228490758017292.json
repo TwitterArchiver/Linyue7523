@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024228483422179330",
+        "3_2024228483413790721"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024228490758017292",
+    "created_at": "2026-02-18T21:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024228490758017292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jnL3fUDwot",
+          "end": 34,
+          "expanded_url": "https://x.com/Linyue7523/status/2024228490758017292/photo/1",
+          "media_key": "3_2024228483422179330",
+          "start": 11,
+          "url": "https://t.co/jnL3fUDwot"
+        },
+        {
+          "display_url": "pic.x.com/jnL3fUDwot",
+          "end": 34,
+          "expanded_url": "https://x.com/Linyue7523/status/2024228490758017292/photo/1",
+          "media_key": "3_2024228483413790721",
+          "start": 11,
+          "url": "https://t.co/jnL3fUDwot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024228490758017292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个望了（0肝0氪） https://t.co/jnL3fUDwot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2024228483422179330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeBFLKbUAIDmZz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2024228483413790721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeBFLIbUAEe1pw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024228483422179330",
+            "3_2024228483413790721"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024228490758017292",
+        "created_at": "2026-02-18T21:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024228490758017292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnL3fUDwot",
+              "end": 34,
+              "expanded_url": "https://x.com/Linyue7523/status/2024228490758017292/photo/1",
+              "media_key": "3_2024228483422179330",
+              "start": 11,
+              "url": "https://t.co/jnL3fUDwot"
+            },
+            {
+              "display_url": "pic.x.com/jnL3fUDwot",
+              "end": 34,
+              "expanded_url": "https://x.com/Linyue7523/status/2024228490758017292/photo/1",
+              "media_key": "3_2024228483413790721",
+              "start": 11,
+              "url": "https://t.co/jnL3fUDwot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024228490758017292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个望了（0肝0氪） https://t.co/jnL3fUDwot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 1524,
+          "like_count": 20202,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 2907
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

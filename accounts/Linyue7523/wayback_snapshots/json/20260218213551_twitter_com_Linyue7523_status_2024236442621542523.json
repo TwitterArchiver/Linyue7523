@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2015811992343445647",
+    "created_at": "2026-02-18T21:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024236442621542523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "shina_makotsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024236442621542523",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015811992343445647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shina_makotsu 畏惧了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2015811992343445647",
+        "created_at": "2026-02-18T21:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024236442621542523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "shina_makotsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024236442621542523",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015811992343445647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shina_makotsu 畏惧了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468416451208179712",
+        "conversation_id": "2015811992343445647",
+        "created_at": "2026-01-26T15:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015811992343445647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015811992343445647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 732,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘骰子是药娘皇帝的话，那两广药娘骰子不也可以是两广皇帝吗\n那是不是会满天乱飞扑脸啊（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 1525,
+          "like_count": 20243,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 2909
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n溺死在理想之中的囚人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 52,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 29,
+                "url": "https://t.co/P1XBuGxUJO"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 81,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 58,
+                "url": "https://t.co/d7W8od16Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuScjJA"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫楓·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 712,
+          "like_count": 4959,
+          "listed_count": 25,
+          "media_count": 707,
+          "tweet_count": 21777
+        },
+        "url": "https://t.co/FWQxuScjJA",
+        "username": "shina_makotsu",
+        "verified": false
+      }
+    ]
+  }
+}

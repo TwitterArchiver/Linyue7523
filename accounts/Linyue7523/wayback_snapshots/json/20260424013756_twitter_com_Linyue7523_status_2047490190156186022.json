@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047490182770049024"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047490190156186022",
+    "created_at": "2026-04-24T01:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T02:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047490190156186022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgLewHWfHP",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2047490190156186022/photo/1",
+          "media_key": "3_2047490182770049024",
+          "start": 5,
+          "url": "https://t.co/BgLewHWfHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047490190156186022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小熊蛋糕 https://t.co/BgLewHWfHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047490182770049024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoleSEbwAAvU0c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047490182770049024"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047490190156186022",
+        "created_at": "2026-04-24T01:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047490190156186022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgLewHWfHP",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2047490190156186022/photo/1",
+              "media_key": "3_2047490182770049024",
+              "start": 5,
+              "url": "https://t.co/BgLewHWfHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047490190156186022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小熊蛋糕 https://t.co/BgLewHWfHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 1600,
+          "like_count": 21566,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3014
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

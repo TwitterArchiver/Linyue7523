@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2031332239620133280",
+    "created_at": "2026-03-10T11:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031332239620133280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804849792121499648",
+          "start": 3,
+          "username": "OnlyLenKagamine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2030…",
+          "end": 44,
+          "expanded_url": "http://x.com/i/article/2030666713889746944",
+          "start": 21,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2030666713889746944",
+          "url": "https://t.co/L8epo42qy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031332239620133280",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030712090760290682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyLenKagamine: https://t.co/L8epo42qy9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2031332239620133280",
+        "created_at": "2026-03-10T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031332239620133280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804849792121499648",
+              "start": 3,
+              "username": "OnlyLenKagamine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2030…",
+              "end": 44,
+              "expanded_url": "http://x.com/i/article/2030666713889746944",
+              "start": 21,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2030666713889746944",
+              "url": "https://t.co/L8epo42qy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031332239620133280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030712090760290682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyLenKagamine: https://t.co/L8epo42qy9"
+      },
+      {
+        "article": {
+          "title": "同性恋在20多年后的中国，又成了敏感词"
+        },
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "conversation_id": "2030712090760290682",
+        "created_at": "2026-03-08T18:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T19:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030712090760290682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2030…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2030666713889746944",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2030666713889746944",
+              "url": "https://t.co/L8epo42qy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030712090760290682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 139289,
+          "like_count": 794,
+          "quote_count": 10,
+          "reply_count": 21,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L8epo42qy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2031222375736553848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 1529,
+          "like_count": 20715,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 2945
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "欢迎每个人找我聊天｜平权 ｜只愛鏡音レン、棘刺❤️｜梦想是进入新闻行业｜做账号不为赚钱不为热度，只为锻炼我自己",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫🔜平权🇹🇼8964🇰🇷🏳️‍🌈🇨🇳Amoris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 393,
+          "like_count": 28395,
+          "listed_count": 6,
+          "media_count": 53,
+          "tweet_count": 3636
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037087166044745728"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2037087084054454447",
+    "created_at": "2026-03-26T08:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037087171782549958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EX1X8fEVdm",
+          "end": 26,
+          "expanded_url": "https://x.com/Linyue7523/status/2037087171782549958/photo/1",
+          "media_key": "3_2037087166044745728",
+          "start": 3,
+          "url": "https://t.co/EX1X8fEVdm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037087171782549958",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037087084054454447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "留存 https://t.co/EX1X8fEVdm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037087166044745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUv_AyasAA6kPa.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037087166044745728"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037087084054454447",
+        "created_at": "2026-03-26T08:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037087171782549958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EX1X8fEVdm",
+              "end": 26,
+              "expanded_url": "https://x.com/Linyue7523/status/2037087171782549958/photo/1",
+              "media_key": "3_2037087166044745728",
+              "start": 3,
+              "url": "https://t.co/EX1X8fEVdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087171782549958",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037087084054454447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "留存 https://t.co/EX1X8fEVdm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037087084054454447",
+        "created_at": "2026-03-26T08:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037087084054454447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/linyue7523/status/2037075817038307482",
+              "start": 21,
+              "url": "https://t.co/mc02kXhtJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087084054454447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037075817038307482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "思考了一下，还是删掉了，攻击性疑似过大了 https://t.co/mc02kXhtJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 1529,
+          "like_count": 21035,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2962
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

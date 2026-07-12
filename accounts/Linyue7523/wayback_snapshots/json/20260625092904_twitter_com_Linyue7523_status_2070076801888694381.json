@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070076780510322689"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2070076801888694381",
+    "created_at": "2026-06-25T09:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070076801888694381"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 33,
+          "tag": "东方Project"
+        },
+        {
+          "end": 54,
+          "start": 44,
+          "tag": "東方Project"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "東方"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YuktFAVn6w",
+          "end": 82,
+          "expanded_url": "https://x.com/Linyue7523/status/2070076801888694381/photo/1",
+          "media_key": "3_2070076780510322689",
+          "start": 59,
+          "url": "https://t.co/YuktFAVn6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070076801888694381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位觉得你车万futa率最高的是哪个角色？\n\n放个恋恋在这里镇楼\n#东方Project #東方Project #東方 https://t.co/YuktFAVn6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070076780510322689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpj3TgaIAECgsM.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070076780510322689"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2070076801888694381",
+        "created_at": "2026-06-25T09:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070076801888694381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "东方Project"
+            },
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "東方Project"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "東方"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuktFAVn6w",
+              "end": 82,
+              "expanded_url": "https://x.com/Linyue7523/status/2070076801888694381/photo/1",
+              "media_key": "3_2070076780510322689",
+              "start": 59,
+              "url": "https://t.co/YuktFAVn6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070076801888694381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位觉得你车万futa率最高的是哪个角色？\n\n放个恋恋在这里镇楼\n#东方Project #東方Project #東方 https://t.co/YuktFAVn6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 1713,
+          "like_count": 22264,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

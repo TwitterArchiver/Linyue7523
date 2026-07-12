@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072087783842455552"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2072087805627621748",
+    "created_at": "2026-06-30T22:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072087805627621748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zPzP8WGzy",
+          "end": 30,
+          "expanded_url": "https://x.com/Linyue7523/status/2072087805627621748/photo/1",
+          "media_key": "16_2072087783842455552",
+          "start": 7,
+          "url": "https://t.co/9zPzP8WGzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072087805627621748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是向日葵： https://t.co/9zPzP8WGzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2072087783842455552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMGI3GtbIAAkqs3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMGI3GtbIAAkqs3.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072087783842455552"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2072087805627621748",
+        "created_at": "2026-06-30T22:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072087805627621748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zPzP8WGzy",
+              "end": 30,
+              "expanded_url": "https://x.com/Linyue7523/status/2072087805627621748/photo/1",
+              "media_key": "16_2072087783842455552",
+              "start": 7,
+              "url": "https://t.co/9zPzP8WGzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072087805627621748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是向日葵： https://t.co/9zPzP8WGzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 1723,
+          "like_count": 22317,
+          "listed_count": 3,
+          "media_count": 365,
+          "tweet_count": 3076
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

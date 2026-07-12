@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037439653067018240"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2037439779042927003",
+    "created_at": "2026-03-27T08:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037439779042927003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwXkNZLQD7",
+          "end": 125,
+          "expanded_url": "https://x.com/Linyue7523/status/2037439779042927003/video/1",
+          "media_key": "13_2037439653067018240",
+          "start": 102,
+          "url": "https://t.co/wwXkNZLQD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037439779042927003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有这样一个曾经人\n他是曾经的高中年级第三，吉他十级\n但是因为玩手机被父母送进了视频中的机构\n在离开机构之后，他患上了ptsd，并开始对自己进行无穷尽的否定\n他不是一个个例，而是这个机构的受害者的一个缩影 https://t.co/wwXkNZLQD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 185874,
+        "height": 544,
+        "media_key": "13_2037439653067018240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037439653067018240/img/C8RbQ_wKcYJmfy9W.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037439653067018240/vid/avc1/476x270/xPAeBSM-cWIFH485.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037439653067018240/vid/avc1/634x360/0gOf_1eS9DjORJAN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037439653067018240/vid/avc1/960x544/fAMveMYeXMX-_l1T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037439653067018240/pl/IOTMJyct8Oz_RMMU.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037439653067018240"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037439779042927003",
+        "created_at": "2026-03-27T08:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037439779042927003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwXkNZLQD7",
+              "end": 125,
+              "expanded_url": "https://x.com/Linyue7523/status/2037439779042927003/video/1",
+              "media_key": "13_2037439653067018240",
+              "start": 102,
+              "url": "https://t.co/wwXkNZLQD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037439779042927003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有这样一个曾经人\n他是曾经的高中年级第三，吉他十级\n但是因为玩手机被父母送进了视频中的机构\n在离开机构之后，他患上了ptsd，并开始对自己进行无穷尽的否定\n他不是一个个例，而是这个机构的受害者的一个缩影 https://t.co/wwXkNZLQD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 1532,
+          "like_count": 21071,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2965
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

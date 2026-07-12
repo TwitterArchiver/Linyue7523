@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2065750441754009640",
+    "created_at": "2026-06-16T15:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066903585032716451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977904622141665280",
+          "start": 0,
+          "username": "lzsamadsk0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066903585032716451",
+    "in_reply_to_user_id": "1977904622141665280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065750441754009640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzsamadsk0707 大概是因为被生活逼着学会的，每个人都可能今天聊得好好的明天就反目成仇了\n但是其实看着潇洒的告别，可能哪天在什么地方做什么事情的时候就想起来那段断掉的关系，告别的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2065750441754009640",
+        "created_at": "2026-06-16T15:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066903585032716451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977904622141665280",
+              "start": 0,
+              "username": "lzsamadsk0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066903585032716451",
+        "in_reply_to_user_id": "1977904622141665280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065750441754009640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzsamadsk0707 大概是因为被生活逼着学会的，每个人都可能今天聊得好好的明天就反目成仇了\n但是其实看着潇洒的告别，可能哪天在什么地方做什么事情的时候就想起来那段断掉的关系，告别的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977904622141665280",
+        "conversation_id": "2065750441754009640",
+        "created_at": "2026-06-13T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065750441754009640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065750441754009640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么对渐行渐远的关系毫不在乎的？怎么做到非常干脆地说断就断的？怎么做到那么潇洒的？把各种关系都看做一种消耗品与可替换品，一旦对自己不利就能做到迅速切割与放弃的？这门学问是有人教的吗？能做到这些的也太厉害了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 1684,
+          "like_count": 22026,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 3064
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T01:09:57.000Z",
+        "description": "第好多次重生的零芷…常驻海南海口🌴QQ：3565593732只过小动物和二次😗",
+        "id": "1977904622141665280",
+        "name": "零芷",
+        "pinned_tweet_id": "2048947845110407593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977905071112572928/dFcdiLlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 584,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 513
+        },
+        "username": "lzsamadsk0707",
+        "verified": false
+      }
+    ]
+  }
+}

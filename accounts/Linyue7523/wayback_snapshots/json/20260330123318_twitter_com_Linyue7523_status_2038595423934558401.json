@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2038595423934558401",
+    "created_at": "2026-03-30T12:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038595423934558401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1617523246144053251",
+          "start": 3,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038595423934558401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038173774647021976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s1nyvu: 别再议论跨妹穿jk咋地咋地了（）jk到底好不好看谁心里没数（）只是没人知道穿这玩意最大的用处其实是勾引萧楚南（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038595423934558401",
+        "created_at": "2026-03-30T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038595423934558401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1617523246144053251",
+              "start": 3,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038595423934558401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038173774647021976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s1nyvu: 别再议论跨妹穿jk咋地咋地了（）jk到底好不好看谁心里没数（）只是没人知道穿这玩意最大的用处其实是勾引萧楚南（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "2038173774647021976",
+        "created_at": "2026-03-29T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038173774647021976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038173774647021976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 403,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别再议论跨妹穿jk咋地咋地了（）jk到底好不好看谁心里没数（）只是没人知道穿这玩意最大的用处其实是勾引萧楚南（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 1544,
+          "like_count": 21072,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2983
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "庚子 癸未 癸酉\n乙巳 癸未 己亥\n下一个是……？",
+        "id": "1617523246144053251",
+        "location": "骂我长得像冰棍的死全家😅",
+        "name": "❄️雪梦歆屿☯️",
+        "pinned_tweet_id": "2033471880611631256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 63,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2147
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

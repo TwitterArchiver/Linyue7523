@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2037971287851892845",
+    "created_at": "2026-03-29T10:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038209195150082178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1087891002",
+          "start": 0,
+          "username": "HelenCharles16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038209195150082178",
+    "in_reply_to_user_id": "1087891002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038157104997957925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelenCharles16 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037971287851892845",
+        "created_at": "2026-03-29T10:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038209195150082178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1087891002",
+              "start": 0,
+              "username": "HelenCharles16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038209195150082178",
+        "in_reply_to_user_id": "1087891002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038157104997957925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelenCharles16 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087891002",
+        "conversation_id": "2037971287851892845",
+        "created_at": "2026-03-29T07:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038157104997957925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038157104997957925",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037971287851892845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 在里面是不是手机被没收，甚至连纸笔都不允许使用，完全与外界断绝联系？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Lin",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3714,
+          "following_count": 1536,
+          "like_count": 20945,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2967
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-14T03:31:09.000Z",
+        "description": "",
+        "id": "1087891002",
+        "name": "Helen Charles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955440630542323712/pUbONoyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 4700,
+          "like_count": 49835,
+          "listed_count": 11,
+          "media_count": 130,
+          "tweet_count": 12372
+        },
+        "username": "HelenCharles16",
+        "verified": false
+      }
+    ]
+  }
+}

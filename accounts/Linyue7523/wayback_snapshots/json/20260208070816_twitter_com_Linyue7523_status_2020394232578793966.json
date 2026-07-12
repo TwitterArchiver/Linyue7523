@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2020132069406396504",
+    "created_at": "2026-02-08T07:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T08:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020394232578793966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020394232578793966",
+    "in_reply_to_user_id": "1675133488524328961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020132069406396504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 抱抱笨蛋科特🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2020132069406396504",
+        "created_at": "2026-02-08T07:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020394232578793966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020394232578793966",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020132069406396504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 抱抱笨蛋科特🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675133488524328961",
+        "conversation_id": "2020132069406396504",
+        "created_at": "2026-02-07T13:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020132069406396504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020132069406396504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来回复这个帖子获取抱抱🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 1526,
+          "like_count": 20105,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2891
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "不是博主就是一个臭玩香水的。。。绝赞心悸应激患者，隐藏中二少女…☪️🔯喵呜～很喜欢你们，如果能多多看我就更喜欢了。正确的是，快点看着我啊…………@Linyue7523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Linyue7523"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "2016142502802415956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017536799367958529/5I3hycbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6288,
+          "following_count": 1493,
+          "like_count": 23954,
+          "listed_count": 16,
+          "media_count": 3522,
+          "tweet_count": 21053
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

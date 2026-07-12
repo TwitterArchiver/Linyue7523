@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2036738291459047579",
+    "created_at": "2026-03-26T07:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037073026504941826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037073026504941826",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036738291459047579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本帖含有非常极端身边统计学，以及25年开始到现在的主观感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2036738291459047579",
+        "created_at": "2026-03-26T07:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037073026504941826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037073026504941826",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036738291459047579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本帖含有非常极端身边统计学，以及25年开始到现在的主观感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2036738291459047579",
+        "created_at": "2026-03-25T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036738291459047579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/linyue7523/status/2036735900689027541",
+              "start": 123,
+              "url": "https://t.co/6bVvLYiVyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036738291459047579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9582,
+          "like_count": 29,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036735900689027541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单纯基于现实骂人，随意挂，真正的性别烦躁应该是让自己努力的改变和贴近自己理想的样子，不是随便穿个女装留个长发吃那个雌二醇然后在那里喊我是女的、我是跨、然后因为那个雌变成几百甚至几千然后在那里Happy\n这边断言一下，85%的所谓的跨都是性别回避 https://t.co/6bVvLYiVyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 1529,
+          "like_count": 21025,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2962
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

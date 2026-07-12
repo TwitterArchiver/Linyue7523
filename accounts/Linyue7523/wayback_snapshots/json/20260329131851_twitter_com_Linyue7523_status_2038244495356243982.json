@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2038244495356243982",
+    "created_at": "2026-03-29T13:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038244495356243982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038244495356243982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038239485952233973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 一群连藏药如何深柜隐藏自己身份\n在你们眼里如此“迂腐且不骄傲”的做法甚至可以单独做成一个知识点进行广泛传播\n如此胆小对自己身份不自信又怯于抗争的人\n却在别人需要在可以在最大程度下帮助自己的时候隐去身份\n就开始跟巨婴一样自己什么都做不了却…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038244495356243982",
+        "created_at": "2026-03-29T13:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038244495356243982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038244495356243982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038239485952233973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 一群连藏药如何深柜隐藏自己身份\n在你们眼里如此“迂腐且不骄傲”的做法甚至可以单独做成一个知识点进行广泛传播\n如此胆小对自己身份不自信又怯于抗争的人\n却在别人需要在可以在最大程度下帮助自己的时候隐去身份\n就开始跟巨婴一样自己什么都做不了却…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038239485952233973",
+        "created_at": "2026-03-29T12:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038239485952233973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038237972387250545",
+              "start": 135,
+              "url": "https://t.co/NXuODU3evB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038239485952233973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038237972387250545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一群连藏药如何深柜隐藏自己身份\n在你们眼里如此“迂腐且不骄傲”的做法甚至可以单独做成一个知识点进行广泛传播\n如此胆小对自己身份不自信又怯于抗争的人\n却在别人需要在可以在最大程度下帮助自己的时候隐去身份\n就开始跟巨婴一样自己什么都做不了却要这要那?\n自己不觉得可笑吗？😅 https://t.co/NXuODU3evB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Lin",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 1538,
+          "like_count": 20950,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2974
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 2297,
+          "like_count": 2197,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2416
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

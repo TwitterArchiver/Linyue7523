@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2037087084054454447",
+    "created_at": "2026-03-26T08:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037087084054454447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linyue7523/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/linyue7523/status/2037075817038307482",
+          "start": 21,
+          "url": "https://t.co/mc02kXhtJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037087084054454447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037075817038307482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "思考了一下，还是删掉了，攻击性疑似过大了 https://t.co/mc02kXhtJ5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037087084054454447",
+        "created_at": "2026-03-26T08:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037087084054454447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/linyue7523/status/2037075817038307482",
+              "start": 21,
+              "url": "https://t.co/mc02kXhtJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087084054454447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037075817038307482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "思考了一下，还是删掉了，攻击性疑似过大了 https://t.co/mc02kXhtJ5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037075817038307482",
+        "created_at": "2026-03-26T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037075817038307482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/linyue7523/status/2036738291459047579",
+              "start": 25,
+              "url": "https://t.co/yDKVeWTeZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037075817038307482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036738291459047579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两篇帖子均基于极端的身边统计学以及个人主观感受 https://t.co/yDKVeWTeZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 1529,
+          "like_count": 21035,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2961
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

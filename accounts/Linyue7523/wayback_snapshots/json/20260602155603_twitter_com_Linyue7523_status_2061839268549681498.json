@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061839255694168064"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2061839268549681498",
+    "created_at": "2026-06-02T15:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061839268549681498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qdGEcEnKJJ",
+          "end": 29,
+          "expanded_url": "https://x.com/Linyue7523/status/2061839268549681498/photo/1",
+          "media_key": "3_2061839255694168064",
+          "start": 6,
+          "url": "https://t.co/qdGEcEnKJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061839268549681498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎来玩🥺 https://t.co/qdGEcEnKJJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061839255694168064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0f4QObUAAl5ev.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061839255694168064"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2061839268549681498",
+        "created_at": "2026-06-02T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061839268549681498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdGEcEnKJJ",
+              "end": 29,
+              "expanded_url": "https://x.com/Linyue7523/status/2061839268549681498/photo/1",
+              "media_key": "3_2061839255694168064",
+              "start": 6,
+              "url": "https://t.co/qdGEcEnKJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061839268549681498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来玩🥺 https://t.co/qdGEcEnKJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055346692913045504/UdOUDg9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 1667,
+          "like_count": 21812,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 3036
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

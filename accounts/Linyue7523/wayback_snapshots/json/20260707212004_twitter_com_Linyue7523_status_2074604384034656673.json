@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074604377244143616"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074604384034656673",
+    "created_at": "2026-07-07T21:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074604384034656673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Vf3u4taw6",
+          "end": 111,
+          "expanded_url": "https://x.com/Linyue7523/status/2074604384034656673/photo/1",
+          "media_key": "3_2074604377244143616",
+          "start": 88,
+          "url": "https://t.co/1Vf3u4taw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074604384034656673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东方冷梗\n有一天，蕾米请了一个画师，要画一副画，叫“帕秋莉在图书馆”\n画完之后，蕾米发现画上没有帕秋莉\n于是跑去问画师：“为什么画上没有帕秋莉呢”\n画师说：“帕秋莉在图书馆” https://t.co/1Vf3u4taw6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_2074604377244143616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMp5sHsbkAAlIgY.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074604377244143616"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074604384034656673",
+        "created_at": "2026-07-07T21:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074604384034656673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Vf3u4taw6",
+              "end": 111,
+              "expanded_url": "https://x.com/Linyue7523/status/2074604384034656673/photo/1",
+              "media_key": "3_2074604377244143616",
+              "start": 88,
+              "url": "https://t.co/1Vf3u4taw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074604384034656673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东方冷梗\n有一天，蕾米请了一个画师，要画一副画，叫“帕秋莉在图书馆”\n画完之后，蕾米发现画上没有帕秋莉\n于是跑去问画师：“为什么画上没有帕秋莉呢”\n画师说：“帕秋莉在图书馆” https://t.co/1Vf3u4taw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 1747,
+          "like_count": 22647,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

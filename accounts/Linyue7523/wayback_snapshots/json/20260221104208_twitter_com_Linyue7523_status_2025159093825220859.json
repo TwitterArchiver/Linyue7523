@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2024739218468258082",
+    "created_at": "2026-02-21T10:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025159093825220859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1956044419549007872",
+          "start": 0,
+          "username": "qitide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025159093825220859",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025158796545536239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qitide 实际上最后主要原因还是当地派出所的执法力度和法律意识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2024739218468258082",
+        "created_at": "2026-02-21T10:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025159093825220859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1956044419549007872",
+              "start": 0,
+              "username": "qitide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025159093825220859",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025158796545536239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qitide 实际上最后主要原因还是当地派出所的执法力度和法律意识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2024739218468258082",
+        "created_at": "2026-02-21T10:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025158796545536239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1956044419549007872",
+              "start": 0,
+              "username": "qitide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025158796545536239",
+        "in_reply_to_user_id": "1956044419549007872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025102288612942023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qitide 正常情况下不会说是性少数谢谢，第一是由于一些社会的因素，第二是由于关于性少数之类的东西一般人听不懂就会和你牵扯，如果这算不正常地区的话那么全国70%以上都是不正常的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 1533,
+          "like_count": 20307,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 2921
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T17:25:43.000Z",
+        "description": "苦与甜的一体二面。未来的人类顶流。杭州/南京/上海/青岛/泰州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QitidesArticle",
+                "end": 23,
+                "expanded_url": "https://t.me/QitidesArticle",
+                "start": 0,
+                "url": "https://t.co/wCQtUY5n7f"
+              }
+            ]
+          }
+        },
+        "id": "1956044419549007872",
+        "location": "@ggd2xiaojie",
+        "name": "亓月",
+        "pinned_tweet_id": "2004752878200914130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974392217184976896/Zw0EL69a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 59,
+          "like_count": 2581,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/wCQtUY5n7f",
+        "username": "qitide",
+        "verified": false
+      }
+    ]
+  }
+}

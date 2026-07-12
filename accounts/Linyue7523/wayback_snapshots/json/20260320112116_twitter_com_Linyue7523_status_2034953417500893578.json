@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034953408709632002"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2034953417500893578",
+    "created_at": "2026-03-20T11:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034953417500893578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyIa6ze9Av",
+          "end": 27,
+          "expanded_url": "https://x.com/Linyue7523/status/2034953417500893578/photo/1",
+          "media_key": "3_2034953408709632002",
+          "start": 4,
+          "url": "https://t.co/MyIa6ze9Av"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034953417500893578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没招了 https://t.co/MyIa6ze9Av"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034953408709632002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2bV_SboAIa6wY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034953408709632002"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2034953417500893578",
+        "created_at": "2026-03-20T11:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034953417500893578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyIa6ze9Av",
+              "end": 27,
+              "expanded_url": "https://x.com/Linyue7523/status/2034953417500893578/photo/1",
+              "media_key": "3_2034953408709632002",
+              "start": 4,
+              "url": "https://t.co/MyIa6ze9Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034953417500893578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没招了 https://t.co/MyIa6ze9Av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2031222375736553848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 1521,
+          "like_count": 20934,
+          "listed_count": 3,
+          "media_count": 333,
+          "tweet_count": 2950
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

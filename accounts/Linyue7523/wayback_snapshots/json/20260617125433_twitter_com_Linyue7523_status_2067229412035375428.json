@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067229394838700032",
+        "3_2067229394448609280"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2067229412035375428",
+    "created_at": "2026-06-17T12:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067229412035375428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2i2rrQj6R",
+          "end": 51,
+          "expanded_url": "https://x.com/Linyue7523/status/2067229412035375428/photo/1",
+          "media_key": "3_2067229394838700032",
+          "start": 28,
+          "url": "https://t.co/h2i2rrQj6R"
+        },
+        {
+          "display_url": "pic.x.com/h2i2rrQj6R",
+          "end": 51,
+          "expanded_url": "https://x.com/Linyue7523/status/2067229412035375428/photo/1",
+          "media_key": "3_2067229394448609280",
+          "start": 28,
+          "url": "https://t.co/h2i2rrQj6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067229412035375428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当有人说动漫角色换个头发就认不出来了\n我Belike： https://t.co/h2i2rrQj6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2067229394838700032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBGLpSbQAABFKR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2067229394448609280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBGLn1a8AA9K6c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067229394838700032",
+            "3_2067229394448609280"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2067229412035375428",
+        "created_at": "2026-06-17T12:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067229412035375428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2i2rrQj6R",
+              "end": 51,
+              "expanded_url": "https://x.com/Linyue7523/status/2067229412035375428/photo/1",
+              "media_key": "3_2067229394838700032",
+              "start": 28,
+              "url": "https://t.co/h2i2rrQj6R"
+            },
+            {
+              "display_url": "pic.x.com/h2i2rrQj6R",
+              "end": 51,
+              "expanded_url": "https://x.com/Linyue7523/status/2067229412035375428/photo/1",
+              "media_key": "3_2067229394448609280",
+              "start": 28,
+              "url": "https://t.co/h2i2rrQj6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067229412035375428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当有人说动漫角色换个头发就认不出来了\n我Belike： https://t.co/h2i2rrQj6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 1690,
+          "like_count": 22038,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 3067
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

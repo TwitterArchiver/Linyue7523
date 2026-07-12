@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2066797923741188227",
+    "created_at": "2026-06-17T12:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067227228677783628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249681779218190338",
+          "start": 0,
+          "username": "realMlgmXyysd"
+        },
+        {
+          "end": 29,
+          "id": "2008233761763409920",
+          "start": 15,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067227228677783628",
+    "in_reply_to_user_id": "1249681779218190338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066838850480304604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realMlgmXyysd @galaxy1025850 移情嘛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2066797923741188227",
+        "created_at": "2026-06-17T12:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067227228677783628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249681779218190338",
+              "start": 0,
+              "username": "realMlgmXyysd"
+            },
+            {
+              "end": 29,
+              "id": "2008233761763409920",
+              "start": 15,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067227228677783628",
+        "in_reply_to_user_id": "1249681779218190338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066838850480304604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realMlgmXyysd @galaxy1025850 移情嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249681779218190338",
+        "conversation_id": "2066797923741188227",
+        "created_at": "2026-06-16T11:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066838850480304604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066838850480304604",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066824548356596212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 唯一的一次（长期）自杀救助个案（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 1690,
+          "like_count": 22037,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 3066
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk @WanBin1010｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜Geek Girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "WanBin1010"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057543814043320320/KHl6UoL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 96,
+          "like_count": 7864,
+          "listed_count": 6,
+          "media_count": 568,
+          "tweet_count": 7778
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友 。 \nPassion in AI & Cloud computing  Pansexual,友跨\n已被Musk干掉两个号。如果是真人，光速回fo \n脾气超好，啥都能聊，经常在线，欢迎pm~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 380,
+          "like_count": 1285,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      }
+    ]
+  }
+}

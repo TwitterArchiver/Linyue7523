@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038354973441064960"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2038354980437184673",
+    "created_at": "2026-03-29T20:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038354980437184673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSkNBrbjsK",
+          "end": 148,
+          "expanded_url": "https://x.com/Linyue7523/status/2038354980437184673/photo/1",
+          "media_key": "3_2038354973441064960",
+          "start": 125,
+          "url": "https://t.co/DSkNBrbjsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038354980437184673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我代表团队成员向逝者、向被伤害的跨性别者及全体性少数社群、向所有被我们的言行冒犯、感到失望的朋友道歉…\n复盘后我们发现，本次事件的团队内部缺乏了对受害者的人文关怀，甚至是对我们自己宣传的人权进行了违背\n我们会立刻对这些现象进行整改…\n真的非常抱歉… https://t.co/DSkNBrbjsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2038354973441064960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmxDHYbAAAkusL.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038354973441064960"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038354980437184673",
+        "created_at": "2026-03-29T20:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038354980437184673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSkNBrbjsK",
+              "end": 148,
+              "expanded_url": "https://x.com/Linyue7523/status/2038354980437184673/photo/1",
+              "media_key": "3_2038354973441064960",
+              "start": 125,
+              "url": "https://t.co/DSkNBrbjsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038354980437184673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我代表团队成员向逝者、向被伤害的跨性别者及全体性少数社群、向所有被我们的言行冒犯、感到失望的朋友道歉…\n复盘后我们发现，本次事件的团队内部缺乏了对受害者的人文关怀，甚至是对我们自己宣传的人权进行了违背\n我们会立刻对这些现象进行整改…\n真的非常抱歉… https://t.co/DSkNBrbjsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 1543,
+          "like_count": 21028,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2978
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

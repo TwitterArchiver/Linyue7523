@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2043576120419729623",
+    "created_at": "2026-04-13T13:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043679483212022037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        },
+        {
+          "end": 27,
+          "id": "1639816523190763521",
+          "start": 17,
+          "username": "ggdxfulan"
+        },
+        {
+          "end": 41,
+          "id": "1424779836938022913",
+          "start": 28,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 54,
+          "id": "1657175394267848704",
+          "start": 42,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043679483212022037",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043587783143600268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia @ggdxfulan @amber_toffee @Zh40Le1ZOOB 我所说的所谓“性别回避”更准确说的是“创伤性性别转换幻想”这种情况在我这边接触到的很多个案身上都有，抽象在哪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2043576120419729623",
+        "created_at": "2026-04-13T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043679483212022037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            },
+            {
+              "end": 27,
+              "id": "1639816523190763521",
+              "start": 17,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 41,
+              "id": "1424779836938022913",
+              "start": 28,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 54,
+              "id": "1657175394267848704",
+              "start": 42,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043679483212022037",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043587783143600268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia @ggdxfulan @amber_toffee @Zh40Le1ZOOB 我所说的所谓“性别回避”更准确说的是“创伤性性别转换幻想”这种情况在我这边接触到的很多个案身上都有，抽象在哪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2043576120419729623",
+        "created_at": "2026-04-13T07:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043587783143600268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 24,
+              "id": "1424779836938022913",
+              "start": 11,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 37,
+              "id": "1657175394267848704",
+              "start": 25,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043587783143600268",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043587445388902730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan @amber_toffee @Zh40Le1ZOOB 我记得你去年还因为这件事训过她来着，怎么最近这人又开始整抽象烂活了（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 1576,
+          "like_count": 21358,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3002
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6876,
+          "following_count": 3775,
+          "like_count": 154484,
+          "listed_count": 19,
+          "media_count": 2643,
+          "tweet_count": 24566
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16643,
+          "following_count": 494,
+          "like_count": 35229,
+          "listed_count": 33,
+          "media_count": 3690,
+          "tweet_count": 11438
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24189,
+          "following_count": 2727,
+          "like_count": 40523,
+          "listed_count": 12,
+          "media_count": 585,
+          "tweet_count": 21637
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜检测到粉蛆或关注粉蛆账号自动屏蔽｜邮箱：mtf@ik.me 或 progynova@duck.com（马甲）｜Telegram：下方链接｜如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 737,
+          "like_count": 6862,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 5480
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

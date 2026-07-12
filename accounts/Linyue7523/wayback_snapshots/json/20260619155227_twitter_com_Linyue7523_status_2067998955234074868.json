@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067998811625304064"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2067998955234074868",
+    "created_at": "2026-06-19T15:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067998955234074868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5B4tZ0mgMQ",
+          "end": 31,
+          "expanded_url": "https://x.com/Linyue7523/status/2067998955234074868/video/1",
+          "media_key": "13_2067998811625304064",
+          "start": 8,
+          "url": "https://t.co/5B4tZ0mgMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067998955234074868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一起来看下雨捏 https://t.co/5B4tZ0mgMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30833,
+        "height": 720,
+        "media_key": "13_2067998811625304064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067998811625304064/img/ZhfGqCAu3gqd4vCF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067998811625304064/vid/avc1/480x270/NGFbv3T8W0qWBG3b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067998811625304064/vid/avc1/640x360/ibkFv3FCbeT9Qs-V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067998811625304064/vid/avc1/1280x720/Xz29SZPG-amE3NiB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067998811625304064/pl/EGxxS_5tMDjHDVhm.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067998811625304064"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2067998955234074868",
+        "created_at": "2026-06-19T15:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067998955234074868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5B4tZ0mgMQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Linyue7523/status/2067998955234074868/video/1",
+              "media_key": "13_2067998811625304064",
+              "start": 8,
+              "url": "https://t.co/5B4tZ0mgMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067998955234074868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起来看下雨捏 https://t.co/5B4tZ0mgMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3922,
+          "following_count": 1701,
+          "like_count": 22095,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 3070
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

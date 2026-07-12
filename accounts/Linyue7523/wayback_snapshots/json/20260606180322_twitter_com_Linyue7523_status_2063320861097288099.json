@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2063320861097288099",
+    "created_at": "2026-06-06T18:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063320861097288099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2015624869665456129",
+          "start": 3,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063320861097288099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063209750205198783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oyama_Mihari01: “在光鲜亮丽的城市之外，在法律边缘的灰色地带，存在着无数正在发生的罪恶。”\n2026年6月4日我们离开重庆主城，驱车2小时来到南川区一路到达庆岩厂村，调查臭名昭著的“重庆胤呈素质教育基地”，我们使用飞行器进行了数字取证，离开时被多辆车辆暴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "无人飞行器拍摄到的非法拘禁现场",
+        "height": 2048,
+        "media_key": "3_2063209715493134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH-Tg0aYAAo6Sh.jpg",
+        "width": 1002
+      },
+      {
+        "alt_text": "被疑似该园区幕后老板与其手下追车暴力围堵",
+        "height": 923,
+        "media_key": "3_2063209715539288064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH-Tg_aoAA8DwD.jpg",
+        "width": 1231
+      },
+      {
+        "alt_text": "取证现场",
+        "height": 2048,
+        "media_key": "3_2063209715551924225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH-ThCbcAE1aMS.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "该机构于谷歌地图中的位置",
+        "height": 1856,
+        "media_key": "3_2063209715530928129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH-Tg9bEAEd2BG.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2063320861097288099",
+        "created_at": "2026-06-06T18:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063320861097288099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2015624869665456129",
+              "start": 3,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063320861097288099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063209750205198783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oyama_Mihari01: “在光鲜亮丽的城市之外，在法律边缘的灰色地带，存在着无数正在发生的罪恶。”\n2026年6月4日我们离开重庆主城，驱车2小时来到南川区一路到达庆岩厂村，调查臭名昭著的“重庆胤呈素质教育基地”，我们使用飞行器进行了数字取证，离开时被多辆车辆暴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063209715493134336",
+            "3_2063209715539288064",
+            "3_2063209715551924225",
+            "3_2063209715530928129"
+          ]
+        },
+        "author_id": "2015624869665456129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063209750205198783",
+        "created_at": "2026-06-06T10:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209750205198783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 136,
+              "tag": "重庆胤呈素质教育基地"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7rpvMtrFX",
+              "end": 171,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2063209750205198783/photo/1",
+              "media_key": "3_2063209715493134336",
+              "start": 148,
+              "url": "https://t.co/g7rpvMtrFX"
+            },
+            {
+              "display_url": "pic.x.com/g7rpvMtrFX",
+              "end": 171,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2063209750205198783/photo/1",
+              "media_key": "3_2063209715539288064",
+              "start": 148,
+              "url": "https://t.co/g7rpvMtrFX"
+            },
+            {
+              "display_url": "pic.x.com/g7rpvMtrFX",
+              "end": 171,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2063209750205198783/photo/1",
+              "media_key": "3_2063209715551924225",
+              "start": 148,
+              "url": "https://t.co/g7rpvMtrFX"
+            },
+            {
+              "display_url": "pic.x.com/g7rpvMtrFX",
+              "end": 171,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2063209750205198783/photo/1",
+              "media_key": "3_2063209715530928129",
+              "start": 148,
+              "url": "https://t.co/g7rpvMtrFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063209750205198783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4476,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "“在光鲜亮丽的城市之外，在法律边缘的灰色地带，存在着无数正在发生的罪恶。”\n2026年6月4日我们离开重庆主城，驱车2小时来到南川区一路到达庆岩厂村，调查臭名昭著的“重庆胤呈素质教育基地”，我们使用飞行器进行了数字取证，离开时被多辆车辆暴力截停，险些造成生命危险…【1】\n#重庆胤呈素质教育基地 https://t.co/g7rpvMtrFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 1674,
+          "like_count": 21906,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3055
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "•女子高生のゆるい日常～☆ ͜ \n\n•🌈Bi♀.写真家.クリア系.社会学.LGBTQフレンドリー\n\n•旅してきた軌跡と、これから叶える夢。#SciComm\n\n•🚪52💖フォローありがとう～！みはるんは永遠にみんなを愛してるよ！✨\n\n•他のSNSやGitHubはリンクから",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "SciComm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kingyosama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kingyosama",
+                "start": 0,
+                "url": "https://t.co/A5JnYGZ3B4"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 494,
+          "like_count": 985,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/A5JnYGZ3B4",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2038223745291297049",
+    "created_at": "2026-03-29T13:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038243045649576443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038243045649576443",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038223745291297049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我个人认为在一个已经立案的具有社会影响力的刑事案件里使用法律性别并无不妥。\n志愿者们发的视频并不只是为了一位跨性别者发声，更重要的是推动一个死者为跨性别者的刑事案件的进程\n我们并没有故意忽略受害者是跨性别者的事实，但我们更需要让社会看到这件事，让他们知道公安机关已经因为这家机构立案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038223737858965504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk5sMvaQAAOJNY.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038223737875746816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk5sMzaUAAHrt1.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038223737871650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk5sMyb0AAMDLR.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038223745291297049",
+        "created_at": "2026-03-29T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038243045649576443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038243045649576443",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038223745291297049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我个人认为在一个已经立案的具有社会影响力的刑事案件里使用法律性别并无不妥。\n志愿者们发的视频并不只是为了一位跨性别者发声，更重要的是推动一个死者为跨性别者的刑事案件的进程\n我们并没有故意忽略受害者是跨性别者的事实，但我们更需要让社会看到这件事，让他们知道公安机关已经因为这家机构立案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038223737858965504",
+            "3_2038223737875746816",
+            "3_2038223737871650816"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2038223745291297049",
+        "created_at": "2026-03-29T11:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038223745291297049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7BK1pVRlw",
+              "end": 163,
+              "expanded_url": "https://x.com/Linyue7523/status/2038223745291297049/photo/1",
+              "media_key": "3_2038223737858965504",
+              "start": 140,
+              "url": "https://t.co/u7BK1pVRlw"
+            },
+            {
+              "display_url": "pic.x.com/u7BK1pVRlw",
+              "end": 163,
+              "expanded_url": "https://x.com/Linyue7523/status/2038223745291297049/photo/1",
+              "media_key": "3_2038223737875746816",
+              "start": 140,
+              "url": "https://t.co/u7BK1pVRlw"
+            },
+            {
+              "display_url": "pic.x.com/u7BK1pVRlw",
+              "end": 163,
+              "expanded_url": "https://x.com/Linyue7523/status/2038223745291297049/photo/1",
+              "media_key": "3_2038223737871650816",
+              "start": 140,
+              "url": "https://t.co/u7BK1pVRlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038223745291297049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 340,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于聚贤崇本受害者的事情，有很多人说受害者是女性是她最后的尊严，那么我们应该卡在这个问题上争个几天甚至几个月吗？\n我们知道受害者不是男性，但在一个走了刑事流程具备司法效力的案件里，我们不得不依据外界的客观视角来描述\n这个事情里真正该被谴责是酿造悲剧的扭转机构，而不是我们的志愿者 https://t.co/u7BK1pVRlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Lin",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 1538,
+          "like_count": 20948,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2972
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

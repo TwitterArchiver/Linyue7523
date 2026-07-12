@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2020392337155977561",
+    "created_at": "2026-02-09T11:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020827380215099482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1956044419549007872",
+          "start": 0,
+          "username": "qitide"
+        },
+        {
+          "end": 18,
+          "id": "1639816523190763521",
+          "start": 8,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020827380215099482",
+    "in_reply_to_user_id": "1956044419549007872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020827318210671080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qitide @ggdxfulan 不可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020827318210671080].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020827318210671080",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020827318210671080"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2020392337155977561",
+        "created_at": "2026-02-09T11:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020827380215099482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1956044419549007872",
+              "start": 0,
+              "username": "qitide"
+            },
+            {
+              "end": 18,
+              "id": "1639816523190763521",
+              "start": 8,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020827380215099482",
+        "in_reply_to_user_id": "1956044419549007872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020827318210671080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qitide @ggdxfulan 不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "是一个普通的女高哦，等到来年春天，草长莺飞的时候，我们会再次相聚那片金色的原野上/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3703,
+          "following_count": 1525,
+          "like_count": 20114,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2898
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T17:25:43.000Z",
+        "description": "苦与甜的一体二面。一位08年生的OI退役选手，现在还会全栈，画画。流浪中，杭州/南京/济南/泰州/上海，欢迎前来投喂w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QitidesArticle",
+                "end": 23,
+                "expanded_url": "https://t.me/QitidesArticle",
+                "start": 0,
+                "url": "https://t.co/wCQtUY4PhH"
+              }
+            ]
+          }
+        },
+        "id": "1956044419549007872",
+        "name": "亓月",
+        "pinned_tweet_id": "2004752878200914130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974392217184976896/Zw0EL69a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 58,
+          "like_count": 2516,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/wCQtUY4PhH",
+        "username": "qitide",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16628,
+          "following_count": 484,
+          "like_count": 33064,
+          "listed_count": 29,
+          "media_count": 3471,
+          "tweet_count": 11062
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

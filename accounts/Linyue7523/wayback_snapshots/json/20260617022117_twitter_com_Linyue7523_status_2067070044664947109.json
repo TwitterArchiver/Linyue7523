@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067070037526265856",
+        "3_2067070037505220608",
+        "3_2067070037501095936"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067070044664947109",
+    "created_at": "2026-06-17T02:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067070044664947109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3eXHJtJhX",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+          "media_key": "3_2067070037526265856",
+          "start": 5,
+          "url": "https://t.co/R3eXHJtJhX"
+        },
+        {
+          "display_url": "pic.x.com/R3eXHJtJhX",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+          "media_key": "3_2067070037505220608",
+          "start": 5,
+          "url": "https://t.co/R3eXHJtJhX"
+        },
+        {
+          "display_url": "pic.x.com/R3eXHJtJhX",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+          "media_key": "3_2067070037501095936",
+          "start": 5,
+          "url": "https://t.co/R3eXHJtJhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067070044664947109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "13抽！ https://t.co/R3eXHJtJhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2067070037526265856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-1P1CbQAAcTVU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 942,
+        "media_key": "3_2067070037505220608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-1P09aIAA7xJi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 942,
+        "media_key": "3_2067070037501095936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-1P08bMAA1gU2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067070037526265856",
+            "3_2067070037505220608",
+            "3_2067070037501095936"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067070044664947109",
+        "created_at": "2026-06-17T02:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067070044664947109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3eXHJtJhX",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+              "media_key": "3_2067070037526265856",
+              "start": 5,
+              "url": "https://t.co/R3eXHJtJhX"
+            },
+            {
+              "display_url": "pic.x.com/R3eXHJtJhX",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+              "media_key": "3_2067070037505220608",
+              "start": 5,
+              "url": "https://t.co/R3eXHJtJhX"
+            },
+            {
+              "display_url": "pic.x.com/R3eXHJtJhX",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2067070044664947109/photo/1",
+              "media_key": "3_2067070037501095936",
+              "start": 5,
+              "url": "https://t.co/R3eXHJtJhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067070044664947109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "13抽！ https://t.co/R3eXHJtJhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3841,
+          "following_count": 1688,
+          "like_count": 22030,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 3065
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

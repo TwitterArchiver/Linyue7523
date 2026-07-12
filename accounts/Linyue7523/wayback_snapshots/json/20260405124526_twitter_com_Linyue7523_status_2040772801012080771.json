@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2040772801012080771",
+    "created_at": "2026-04-05T12:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040772801012080771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040772801012080771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040636686544298121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 性别回避\n\n这种种类的药娘 并不是天生就想当女生，而是后期遭受到重大变故，从而对男性身份产生厌恶从而吃糖，所以这种药娘通常性别焦虑不是很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2040772801012080771",
+        "created_at": "2026-04-05T12:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040772801012080771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040772801012080771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040636686544298121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 性别回避\n\n这种种类的药娘 并不是天生就想当女生，而是后期遭受到重大变故，从而对男性身份产生厌恶从而吃糖，所以这种药娘通常性别焦虑不是很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2040636686544298121",
+        "created_at": "2026-04-05T03:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040636686544298121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040636686544298121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 11080,
+          "like_count": 157,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "性别回避\n\n这种种类的药娘 并不是天生就想当女生，而是后期遭受到重大变故，从而对男性身份产生厌恶从而吃糖，所以这种药娘通常性别焦虑不是很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意，愿每个人都能被世界温柔的对待/摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "Die Iris",
+        "pinned_tweet_id": "2037971287851892845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 1561,
+          "like_count": 21199,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2996
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16581,
+          "following_count": 491,
+          "like_count": 34969,
+          "listed_count": 32,
+          "media_count": 3630,
+          "tweet_count": 11316
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

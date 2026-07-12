@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2063099624693576005",
+    "created_at": "2026-06-06T17:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063319335096266891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505945863985643523",
+          "start": 0,
+          "username": "sanduo031201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063319335096266891",
+    "in_reply_to_user_id": "1505945863985643523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063285464933781635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanduo031201 一次一片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2063099624693576005",
+        "created_at": "2026-06-06T17:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063319335096266891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505945863985643523",
+              "start": 0,
+              "username": "sanduo031201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063319335096266891",
+        "in_reply_to_user_id": "1505945863985643523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063285464933781635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanduo031201 一次一片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505945863985643523",
+        "conversation_id": "2063099624693576005",
+        "created_at": "2026-06-06T15:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063285464933781635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063285464933781635",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063099624693576005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 是一次两片吗，这么高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 1672,
+          "like_count": 21897,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3052
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T16:34:16.000Z",
+        "description": "是一只单身伪娘哦，同好可以私聊找俺扩列喵，喜欢百合，有喜欢我的姐姐和男娘请戳爆我的私信",
+        "id": "1505945863985643523",
+        "name": "三惰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655860081630625793/oXlVuoiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 145,
+          "like_count": 999,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 41
+        },
+        "username": "sanduo031201",
+        "verified": false
+      }
+    ]
+  }
+}

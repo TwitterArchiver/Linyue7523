@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2063099624693576005",
+    "created_at": "2026-06-06T17:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063319302691062153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515137106540040196",
+          "start": 0,
+          "username": "jia0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063319302691062153",
+    "in_reply_to_user_id": "1515137106540040196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063171948847440095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jia0712 一次一片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2063099624693576005",
+        "created_at": "2026-06-06T17:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063319302691062153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515137106540040196",
+              "start": 0,
+              "username": "jia0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063319302691062153",
+        "in_reply_to_user_id": "1515137106540040196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063171948847440095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jia0712 一次一片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515137106540040196",
+        "conversation_id": "2063099624693576005",
+        "created_at": "2026-06-06T08:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063171948847440095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063171948847440095",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063099624693576005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 贴了几片？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 1672,
+          "like_count": 21897,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3051
+        },
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T01:16:59.000Z",
+        "description": "灯火阑珊，你在彼岸。",
+        "id": "1515137106540040196",
+        "location": "蔡州",
+        "name": "藤萝🏳️‍⚧️",
+        "pinned_tweet_id": "2059467420197412990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909592899773513729/1gf62jTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 121,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 563
+        },
+        "username": "jia0712",
+        "verified": false
+      }
+    ]
+  }
+}
