@@ -7,13 +7,6 @@
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2044094304029753392",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 69,
-        "start": 55,
-        "username": "Kietter387803"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg"
 }
