@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077415347356127232",
+        "3_2077415347326746624",
+        "3_2077415347364524032"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077415408068616549",
+    "created_at": "2026-07-15T15:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077415408068616549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cognLVsmdD",
+          "end": 26,
+          "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+          "media_key": "3_2077415347356127232",
+          "start": 3,
+          "url": "https://t.co/cognLVsmdD"
+        },
+        {
+          "display_url": "pic.x.com/cognLVsmdD",
+          "end": 26,
+          "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+          "media_key": "3_2077415347326746624",
+          "start": 3,
+          "url": "https://t.co/cognLVsmdD"
+        },
+        {
+          "display_url": "pic.x.com/cognLVsmdD",
+          "end": 26,
+          "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+          "media_key": "3_2077415347364524032",
+          "start": 3,
+          "url": "https://t.co/cognLVsmdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077415408068616549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "茶楼 https://t.co/cognLVsmdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2077415347356127232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2QHYbUAAnPOZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2077415347326746624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2QHRbAAAja5E.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2077415347364524032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2QHabcAAKfyC.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077415347356127232",
+            "3_2077415347326746624",
+            "3_2077415347364524032"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077415408068616549",
+        "created_at": "2026-07-15T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077415408068616549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cognLVsmdD",
+              "end": 26,
+              "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+              "media_key": "3_2077415347356127232",
+              "start": 3,
+              "url": "https://t.co/cognLVsmdD"
+            },
+            {
+              "display_url": "pic.x.com/cognLVsmdD",
+              "end": 26,
+              "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+              "media_key": "3_2077415347326746624",
+              "start": 3,
+              "url": "https://t.co/cognLVsmdD"
+            },
+            {
+              "display_url": "pic.x.com/cognLVsmdD",
+              "end": 26,
+              "expanded_url": "https://x.com/Linyue7523/status/2077415408068616549/photo/1",
+              "media_key": "3_2077415347364524032",
+              "start": 3,
+              "url": "https://t.co/cognLVsmdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415408068616549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茶楼 https://t.co/cognLVsmdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 1761,
+          "like_count": 22929,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 3086
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}
