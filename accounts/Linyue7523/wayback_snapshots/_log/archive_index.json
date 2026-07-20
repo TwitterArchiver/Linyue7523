@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-20T10:34:35",
+  "last_updated": "2026-07-20T10:35:02",
   "html": {
     "https://web.archive.org/web/20260207100103if_/https://twitter.com/Linyue7523/status/2020075324042863017": {
       "status": "done",
@@ -3844,16 +3844,16 @@
       "last_updated": "2026-07-12T23:17:44"
     },
     "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260329120426_twitter_com_Linyue7523_status_2038225768376082844.json",
         "20260413130802_twitter_com_Linyue7523_status_2043677591333204336.json",
         "20260413130852_twitter_com_Linyue7523_status_2043677801769836773.json",
         "20260413131533_twitter_com_Linyue7523_status_2043679483212022037.json"
       ],
-      "last_updated": "2026-07-19T06:30:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413131533if_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc906903800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-07-20T10:35:02",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260413131533if_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg": {
       "status": "done",
@@ -3874,13 +3874,13 @@
       "last_updated": "2026-07-12T23:17:43"
     },
     "https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260329121810_twitter_com_Linyue7523_status_2038229226932101184.json"
       ],
-      "last_updated": "2026-07-19T06:30:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329121810if_/https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc906919610>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-20T10:35:01",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260329121810if_/https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg": {
       "status": "done",
@@ -3920,13 +3920,13 @@
       "last_updated": "2026-07-12T23:17:44"
     },
     "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260330123318_twitter_com_Linyue7523_status_2038595423934558401.json"
       ],
-      "last_updated": "2026-07-19T06:30:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330123318if_/https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc90691a150>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-20T10:34:59",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260330123318if_/https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2022175928974299136/twMmrNFi_normal.jpg": {
       "status": "done",
@@ -3958,13 +3958,13 @@
       "last_updated": "2026-07-12T23:17:43"
     },
     "https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260404161125_twitter_com_Linyue7523_status_2040462253808599220.json"
       ],
-      "last_updated": "2026-07-19T06:30:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404161125im_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc906919cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-20T10:35:00",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260404161125if_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2028132638507376640/wMQh0uyT_normal.jpg": {
       "status": "done",
@@ -4119,13 +4119,13 @@
       "last_updated": "2026-07-12T23:17:44"
     },
     "https://pbs.twimg.com/profile_images/2037225178867122176/hqpKFVEe_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260525153555_twitter_com_Linyue7523_status_2058935098079314121.json"
       ],
-      "last_updated": "2026-07-19T06:30:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525153555im_/https://pbs.twimg.com/profile_images/2037225178867122176/hqpKFVEe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc906919a30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-20T10:35:01",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260525153555if_/https://pbs.twimg.com/profile_images/2037225178867122176/hqpKFVEe_normal.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg": {
       "status": "done",
@@ -4392,13 +4392,13 @@
       "last_updated": "2026-07-12T23:17:45"
     },
     "https://pbs.twimg.com/profile_images/2068350848976257024/Dv1m4s8L_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260621102229_twitter_com_Linyue7523_status_2068640693984337981.json"
       ],
-      "last_updated": "2026-07-19T06:30:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621102229im_/https://pbs.twimg.com/profile_images/2068350848976257024/Dv1m4s8L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc906901ca0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-07-20T10:35:02",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260621102229if_/https://pbs.twimg.com/profile_images/2068350848976257024/Dv1m4s8L_normal.jpg",
+      "miss_count": 7
     },
     "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg": {
       "status": "done",
@@ -4450,22 +4450,25 @@
       "last_updated": "2026-07-12T23:17:46"
     },
     "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260714181612_twitter_com_Linyue7523_status_2077094827582460407.json"
-      ]
+      ],
+      "last_updated": "2026-07-20T10:35:01"
     },
     "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260717083621_twitter_com_Linyue7523_status_2078036067048194556.json"
-      ]
+      ],
+      "last_updated": "2026-07-20T10:35:02"
     },
     "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260717083655_twitter_com_Linyue7523_status_2078036209528652013.json"
-      ]
+      ],
+      "last_updated": "2026-07-20T10:35:02"
     }
   },
   "media": {
@@ -6227,7 +6230,7 @@
       "miss_count": 6
     },
     "20260329121810_twitter_com_Linyue7523_status_2038229226932101184.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6236,7 +6239,7 @@
           "https://pbs.twimg.com/profile_images/2038196472232267776/XkfzpOwP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:01",
       "miss_count": 6
     },
     "20260329130421_twitter_com_Linyue7523_status_2038240847540695293.json": {
@@ -6601,7 +6604,7 @@
       "miss_count": 2
     },
     "20260330123318_twitter_com_Linyue7523_status_2038595423934558401.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6610,7 +6613,7 @@
           "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:34:59",
       "miss_count": 6
     },
     "20260331051332_twitter_com_Linyue7523_status_2038847140861259923.json": {
@@ -6785,7 +6788,7 @@
       "miss_count": 6
     },
     "20260404161125_twitter_com_Linyue7523_status_2040462253808599220.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6797,7 +6800,7 @@
           "https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:00",
       "miss_count": 6
     },
     "20260404161140_twitter_com_Linyue7523_status_2040462313493557328.json": {
@@ -6976,7 +6979,7 @@
       "miss_count": 2
     },
     "20260413130802_twitter_com_Linyue7523_status_2043677591333204336.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6988,11 +6991,11 @@
           "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:02",
       "miss_count": 6
     },
     "20260413130852_twitter_com_Linyue7523_status_2043677801769836773.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7004,11 +7007,11 @@
           "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:02",
       "miss_count": 6
     },
     "20260413131533_twitter_com_Linyue7523_status_2043679483212022037.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7020,7 +7023,7 @@
           "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:02",
       "miss_count": 6
     },
     "20260413141334_twitter_com_Linyue7523_status_2043694084318171380.json": {
@@ -7704,7 +7707,7 @@
       "miss_count": 2
     },
     "20260525153555_twitter_com_Linyue7523_status_2058935098079314121.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7714,7 +7717,7 @@
           "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:01",
       "miss_count": 6
     },
     "20260527072340_twitter_com_Linyue7523_status_2059535994743890213.json": {
@@ -8567,7 +8570,7 @@
       "last_updated": "2026-07-12T23:17:45"
     },
     "20260621102229_twitter_com_Linyue7523_status_2068640693984337981.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLUeXc3aUAApQLA.jpg"
@@ -8578,7 +8581,7 @@
           "https://pbs.twimg.com/profile_images/2068350848976257024/Dv1m4s8L_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31",
+      "last_updated": "2026-07-20T10:35:02",
       "miss_count": 6
     },
     "20260624100546_twitter_com_Linyue7523_status_2069723651184947304.json": {
@@ -8906,7 +8909,7 @@
       "last_updated": "2026-07-20T10:26:40"
     },
     "20260714181612_twitter_com_Linyue7523_status_2077094827582460407.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8915,7 +8918,7 @@
           "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31"
+      "last_updated": "2026-07-20T10:35:01"
     },
     "20260714181729_twitter_com_Linyue7523_status_2077095151051391347.json": {
       "status": "done",
@@ -8948,7 +8951,7 @@
       "last_updated": "2026-07-20T10:26:42"
     },
     "20260717083621_twitter_com_Linyue7523_status_2078036067048194556.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNSPu47boAIulBb.jpg"
@@ -8959,10 +8962,10 @@
           "https://pbs.twimg.com/profile_images/1927387781434580992/JYdFmqhE_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31"
+      "last_updated": "2026-07-20T10:35:02"
     },
     "20260717083655_twitter_com_Linyue7523_status_2078036209528652013.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8971,7 +8974,7 @@
           "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-20T10:34:31"
+      "last_updated": "2026-07-20T10:35:02"
     },
     "20260717083758_twitter_com_Linyue7523_status_2078036473727832553.json": {
       "status": "done",
