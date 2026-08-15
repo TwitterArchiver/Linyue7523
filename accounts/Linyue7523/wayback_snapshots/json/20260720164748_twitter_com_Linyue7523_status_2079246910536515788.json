@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2054915851124683093",
+    "created_at": "2026-07-20T16:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079246910536515788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1878490501143203840",
+          "start": 0,
+          "username": "OASEN__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079246910536515788",
+    "in_reply_to_user_id": "1878490501143203840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054915851124683093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OASEN__ 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2054915836855619584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISHEPMakAAGoF-.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2054915851124683093",
+        "created_at": "2026-07-20T16:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079246910536515788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1878490501143203840",
+              "start": 0,
+              "username": "OASEN__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079246910536515788",
+        "in_reply_to_user_id": "1878490501143203840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054915851124683093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OASEN__ 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054915836855619584"
+          ]
+        },
+        "author_id": "1878490501143203840",
+        "conversation_id": "2054915851124683093",
+        "created_at": "2026-05-14T13:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054915851124683093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJxoNZBDG7",
+              "end": 38,
+              "expanded_url": "https://x.com/OASEN__/status/2054915851124683093/photo/1",
+              "media_key": "3_2054915836855619584",
+              "start": 15,
+              "url": "https://t.co/hJxoNZBDG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054915851124683093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是kipfel和小鱼板🍥喵！ https://t.co/hJxoNZBDG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 1774,
+          "like_count": 22958,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 3089
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T17:13:51.000Z",
+        "description": "社恐 / 友跨 /🍥26.5/ 想成为一只可爱的猫猫qwq /称呼: 它 or 她 / 朋友圈 ➡ https://t.co/o8n1B6HMrV / 横幅图片: pixiv-127227778_p0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "moments.oasen.work",
+                "end": 73,
+                "expanded_url": "https://moments.oasen.work",
+                "start": 50,
+                "url": "https://t.co/o8n1B6HMrV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moments.oasen.work",
+                "end": 23,
+                "expanded_url": "https://moments.oasen.work",
+                "start": 0,
+                "url": "https://t.co/o8n1B6HMrV"
+              }
+            ]
+          }
+        },
+        "id": "1878490501143203840",
+        "location": "猫窝",
+        "name": "OASEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074155442222292992/n30Kb4i4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 522,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/o8n1B6HMrV",
+        "username": "OASEN__",
+        "verified": true
+      }
+    ]
+  }
+}

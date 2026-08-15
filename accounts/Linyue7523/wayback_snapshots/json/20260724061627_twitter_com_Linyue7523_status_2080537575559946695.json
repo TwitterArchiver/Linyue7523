@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080537564378025984"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080537575559946695",
+    "created_at": "2026-07-24T06:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080537575559946695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4i0ytVlDLS",
+          "end": 31,
+          "expanded_url": "https://x.com/Linyue7523/status/2080537575559946695/photo/1",
+          "media_key": "3_2080537564378025984",
+          "start": 8,
+          "url": "https://t.co/4i0ytVlDLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080537575559946695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再甜不过崩崩崩 https://t.co/4i0ytVlDLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2080537564378025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-N5EKb0AAT_nl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080537564378025984"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080537575559946695",
+        "created_at": "2026-07-24T06:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080537575559946695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4i0ytVlDLS",
+              "end": 31,
+              "expanded_url": "https://x.com/Linyue7523/status/2080537575559946695/photo/1",
+              "media_key": "3_2080537564378025984",
+              "start": 8,
+              "url": "https://t.co/4i0ytVlDLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080537575559946695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再甜不过崩崩崩 https://t.co/4i0ytVlDLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3990,
+          "following_count": 1775,
+          "like_count": 23052,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 3096
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

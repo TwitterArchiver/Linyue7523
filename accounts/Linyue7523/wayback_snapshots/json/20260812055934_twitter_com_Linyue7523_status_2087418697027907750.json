@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2087418697027907750",
+    "created_at": "2026-08-12T05:59:34.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087418697027907750"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087418697027907750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天和明天刷新在上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2087418697027907750",
+        "created_at": "2026-08-12T05:59:34.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087418697027907750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087418697027907750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和明天刷新在上海"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n下一站是本次列车的终点站，番禺广场。\n可换乘3号线，18号线",
+        "id": "1766858890636120064",
+        "is_identity_verified": false,
+        "location": "番禺广场站A口",
+        "most_recent_tweet_id": "2087418697027907750",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1779264195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3983,
+          "following_count": 1771,
+          "like_count": 23174,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3113
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

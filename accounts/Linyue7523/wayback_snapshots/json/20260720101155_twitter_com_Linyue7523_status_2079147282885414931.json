@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079147256532606976",
+        "3_2079147257186922496",
+        "3_2079147256541020160",
+        "3_2079147256532639744"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2079147282885414931",
+    "created_at": "2026-07-20T10:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079147282885414931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pfbt58XjUL",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+          "media_key": "3_2079147256532606976",
+          "start": 5,
+          "url": "https://t.co/Pfbt58XjUL"
+        },
+        {
+          "display_url": "pic.x.com/Pfbt58XjUL",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+          "media_key": "3_2079147257186922496",
+          "start": 5,
+          "url": "https://t.co/Pfbt58XjUL"
+        },
+        {
+          "display_url": "pic.x.com/Pfbt58XjUL",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+          "media_key": "3_2079147256541020160",
+          "start": 5,
+          "url": "https://t.co/Pfbt58XjUL"
+        },
+        {
+          "display_url": "pic.x.com/Pfbt58XjUL",
+          "end": 28,
+          "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+          "media_key": "3_2079147256532639744",
+          "start": 5,
+          "url": "https://t.co/Pfbt58XjUL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079147282885414931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去猫咖玩 https://t.co/Pfbt58XjUL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079147256532606976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqdaf1aoAA2vMg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079147257186922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqdaiRasAAEqj_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079147256541020160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqdaf3bAAAg98-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079147256532639744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqdaf1bIAAnY7f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079147256532606976",
+            "3_2079147257186922496",
+            "3_2079147256541020160",
+            "3_2079147256532639744"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2079147282885414931",
+        "created_at": "2026-07-20T10:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079147282885414931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pfbt58XjUL",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+              "media_key": "3_2079147256532606976",
+              "start": 5,
+              "url": "https://t.co/Pfbt58XjUL"
+            },
+            {
+              "display_url": "pic.x.com/Pfbt58XjUL",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+              "media_key": "3_2079147257186922496",
+              "start": 5,
+              "url": "https://t.co/Pfbt58XjUL"
+            },
+            {
+              "display_url": "pic.x.com/Pfbt58XjUL",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+              "media_key": "3_2079147256541020160",
+              "start": 5,
+              "url": "https://t.co/Pfbt58XjUL"
+            },
+            {
+              "display_url": "pic.x.com/Pfbt58XjUL",
+              "end": 28,
+              "expanded_url": "https://x.com/Linyue7523/status/2079147282885414931/photo/1",
+              "media_key": "3_2079147256532639744",
+              "start": 5,
+              "url": "https://t.co/Pfbt58XjUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079147282885414931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去猫咖玩 https://t.co/Pfbt58XjUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 1761,
+          "like_count": 22930,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 3085
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

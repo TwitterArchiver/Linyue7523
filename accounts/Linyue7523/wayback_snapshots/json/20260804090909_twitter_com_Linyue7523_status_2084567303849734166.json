@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084567243975966720",
+        "3_2084567243971772416"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2084530865707839936",
+    "created_at": "2026-08-04T09:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084567303849734166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801809484936826880",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GcBUxuntG",
+          "end": 40,
+          "expanded_url": "https://x.com/Linyue7523/status/2084567303849734166/photo/1",
+          "media_key": "3_2084567243975966720",
+          "start": 17,
+          "url": "https://t.co/0GcBUxuntG"
+        },
+        {
+          "display_url": "pic.x.com/0GcBUxuntG",
+          "end": 40,
+          "expanded_url": "https://x.com/Linyue7523/status/2084567303849734166/photo/1",
+          "media_key": "3_2084567243971772416",
+          "start": 17,
+          "url": "https://t.co/0GcBUxuntG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084567303849734166",
+    "in_reply_to_user_id": "1801809484936826880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084530865707839936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akirameru_QAQ 👀 https://t.co/0GcBUxuntG"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084530865707839936].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084530865707839936",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084530865707839936"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084567243975966720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3e3SeaQAAQSl-.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2084567243971772416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3e3SdaQAA2WJV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084567243975966720",
+            "3_2084567243971772416"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2084530865707839936",
+        "created_at": "2026-08-04T09:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084567303849734166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801809484936826880",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GcBUxuntG",
+              "end": 40,
+              "expanded_url": "https://x.com/Linyue7523/status/2084567303849734166/photo/1",
+              "media_key": "3_2084567243975966720",
+              "start": 17,
+              "url": "https://t.co/0GcBUxuntG"
+            },
+            {
+              "display_url": "pic.x.com/0GcBUxuntG",
+              "end": 40,
+              "expanded_url": "https://x.com/Linyue7523/status/2084567303849734166/photo/1",
+              "media_key": "3_2084567243971772416",
+              "start": 17,
+              "url": "https://t.co/0GcBUxuntG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567303849734166",
+        "in_reply_to_user_id": "1801809484936826880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084530865707839936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ 👀 https://t.co/0GcBUxuntG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3977,
+          "following_count": 1767,
+          "like_count": 23112,
+          "listed_count": 3,
+          "media_count": 379,
+          "tweet_count": 3106
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T02:51:07.000Z",
+        "description": "裏垢 | 秋月姐姐 @qiuylove | 阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "qiuylove"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "project.mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://project.mikachan.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/joDdH0U6cs"
+              }
+            ]
+          }
+        },
+        "id": "1801809484936826880",
+        "name": "秋以降🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080057145429807104/AuEzlLZN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 119,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/joDdH0U6cs",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

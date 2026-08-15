@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2079248683003187517",
+    "created_at": "2026-07-20T16:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079248683003187517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766858890636120064",
+          "start": 3,
+          "username": "Linyue7523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079248683003187517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079157089403121668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linyue7523: “因为死人不会说话”\n既然ta选择了离开这里去休息，那为什么还要把ta拉回来呢？\n仅仅留下回忆之类的便足够了吧？\n这种行为难道不是在作贱那个自己在乎的人吗？\n不理解，不原谅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2079248683003187517",
+        "created_at": "2026-07-20T16:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079248683003187517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766858890636120064",
+              "start": 3,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079248683003187517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079157089403121668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linyue7523: “因为死人不会说话”\n既然ta选择了离开这里去休息，那为什么还要把ta拉回来呢？\n仅仅留下回忆之类的便足够了吧？\n这种行为难道不是在作贱那个自己在乎的人吗？\n不理解，不原谅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2079157089403121668",
+        "created_at": "2026-07-20T10:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079157089403121668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2078911565999599628",
+              "start": 87,
+              "url": "https://t.co/K41QxF0coZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079157089403121668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“因为死人不会说话”\n既然ta选择了离开这里去休息，那为什么还要把ta拉回来呢？\n仅仅留下回忆之类的便足够了吧？\n这种行为难道不是在作贱那个自己在乎的人吗？\n不理解，不原谅 https://t.co/K41QxF0coZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 1771,
+          "like_count": 22975,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2079245856772067427",
+    "created_at": "2026-07-20T16:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079245856772067427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870108535268487169",
+          "start": 3,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079245856772067427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079165153548050882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MomoseReina: 我认为这是对逝者的冒犯\n第一：你们的数据权不等于她的人格权\n聊天记录是你们自愿提供的，这没问题。但这些数据被用来做什么，才是关键。你们有权分享自己说过的话，但没有权利用它去重建另一个人\n第二：这种行为这不是纪念，是伪造…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2079245856772067427",
+        "created_at": "2026-07-20T16:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079245856772067427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870108535268487169",
+              "start": 3,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079245856772067427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079165153548050882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MomoseReina: 我认为这是对逝者的冒犯\n第一：你们的数据权不等于她的人格权\n聊天记录是你们自愿提供的，这没问题。但这些数据被用来做什么，才是关键。你们有权分享自己说过的话，但没有权利用它去重建另一个人\n第二：这种行为这不是纪念，是伪造…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2079165153548050882",
+        "created_at": "2026-07-20T11:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079165153548050882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2078911565999599628",
+              "start": 110,
+              "url": "https://t.co/MCUQtNxc5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079165153548050882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为这是对逝者的冒犯\n第一：你们的数据权不等于她的人格权\n聊天记录是你们自愿提供的，这没问题。但这些数据被用来做什么，才是关键。你们有权分享自己说过的话，但没有权利用它去重建另一个人\n第二：这种行为这不是纪念，是伪造\n纪念是保存她说过的话。而这个模型会生成她没说过的话，用她的风格、她的语气，冒充她的人格。她已经不能同意，也不能反对，更不能纠正。这不是让她”活着”，是让她”被活着”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1268,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为这是对逝者的冒犯\n第一：你们的数据权不等于她的人格权\n聊天记录是你们自愿提供的，这没问题。但这些数据被用来做什么，才是关键。你们有权分享自己说过的话，但没有权利用它去重建另一个人\n第二：这种行为这不是纪念，是伪造 https://t.co/MCUQtNxc5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n广铁U彩提示您，前方到站番禺广场站",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 1760,
+          "like_count": 22943,
+          "listed_count": 3,
+          "media_count": 370,
+          "tweet_count": 3087
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 340,
+          "like_count": 9383,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 6693
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}
