@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095933263768645633"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2095933292084428893",
+    "created_at": "2026-09-04T17:53:32.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095933292084428893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nrUk3W0P1C",
+          "end": 92,
+          "expanded_url": "https://x.com/Linyue7523/status/2095933292084428893/photo/1",
+          "media_key": "3_2095933263768645633",
+          "start": 69,
+          "url": "https://t.co/nrUk3W0P1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095933292084428893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095933263768645633"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人生如戏，我曾经也是天之娇女啊…\n可惜一手好牌打得稀烂…\n好累…\n我今晚也许不应该出来喝酒的……\n今天被人弄得极端情绪爆炸了…\n好烦…… https://t.co/nrUk3W0P1C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095933263768645633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZAMtva8AEaQUd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095933263768645633"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2095933292084428893",
+        "created_at": "2026-09-04T17:53:32.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095933292084428893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrUk3W0P1C",
+              "end": 92,
+              "expanded_url": "https://x.com/Linyue7523/status/2095933292084428893/photo/1",
+              "media_key": "3_2095933263768645633",
+              "start": 69,
+              "url": "https://t.co/nrUk3W0P1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095933292084428893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095933263768645633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生如戏，我曾经也是天之娇女啊…\n可惜一手好牌打得稀烂…\n好累…\n我今晚也许不应该出来喝酒的……\n今天被人弄得极端情绪爆炸了…\n好烦…… https://t.co/nrUk3W0P1C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n下一站是本次列车的终点站，番禺广场。可换乘3号线，18号线",
+        "id": "1766858890636120064",
+        "is_identity_verified": false,
+        "location": "番禺广场站A口",
+        "most_recent_tweet_id": "2095933292084428893",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1779264195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 1778,
+          "like_count": 23429,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 3140
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

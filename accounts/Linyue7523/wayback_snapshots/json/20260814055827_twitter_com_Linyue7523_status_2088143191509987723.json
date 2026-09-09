@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2087789246895767806",
+    "created_at": "2026-08-14T05:58:27.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088143191509987723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701474166392905729",
+          "start": 0,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088143191509987723",
+    "in_reply_to_user_id": "1701474166392905729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087789246895767806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaNana_os 不许喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2087789246895767806",
+        "created_at": "2026-08-14T05:58:27.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088143191509987723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701474166392905729",
+              "start": 0,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088143191509987723",
+        "in_reply_to_user_id": "1701474166392905729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087789246895767806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaNana_os 不许喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2087789246895767806",
+        "created_at": "2026-08-13T06:32:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087789246895767806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087789246895767806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃4-ho-met\n嗯 但是 渠道太少了 令人惋惜\n不过就算有渠道我也没钱（x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n下一站是本次列车的终点站，番禺广场。\n可换乘3号线，18号线",
+        "id": "1766858890636120064",
+        "is_identity_verified": false,
+        "location": "番禺广场站A口",
+        "most_recent_tweet_id": "2088143191509987723",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1779264195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3987,
+          "following_count": 1772,
+          "like_count": 23215,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 3116
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜💕@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜EE +BME+ Psypharm｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "is_identity_verified": false,
+        "location": "DLPFC",
+        "most_recent_tweet_id": "2087789246895767806",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2076697076231258510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701474166392905729/1744998704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 736,
+          "like_count": 30376,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3844
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

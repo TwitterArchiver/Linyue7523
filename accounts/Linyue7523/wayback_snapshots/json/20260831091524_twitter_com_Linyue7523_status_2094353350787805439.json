@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1766858890636120064",
+    "conversation_id": "2093581894625710355",
+    "created_at": "2026-08-31T09:15:24.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094353350787805439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729678224068911104",
+          "start": 0,
+          "username": "kafei684134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094353350787805439",
+    "in_reply_to_user_id": "1729678224068911104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093596748715536482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafei684134 我是用来卖药和付款的😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2093581894625710355",
+        "created_at": "2026-08-31T09:15:24.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094353350787805439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729678224068911104",
+              "start": 0,
+              "username": "kafei684134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094353350787805439",
+        "in_reply_to_user_id": "1729678224068911104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093596748715536482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafei684134 我是用来卖药和付款的😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729678224068911104",
+        "conversation_id": "2093581894625710355",
+        "created_at": "2026-08-29T07:08:56.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093596748715536482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Linyue7523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093596748715536482",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093581894625710355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linyue7523 收手吧，不要再玩币圈了🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n下一站是本次列车的终点站，番禺广场。可换乘3号线，18号线",
+        "id": "1766858890636120064",
+        "is_identity_verified": false,
+        "location": "番禺广场站A口",
+        "most_recent_tweet_id": "2094353350787805439",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1779264195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 1773,
+          "like_count": 23332,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 3134
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-29T01:47:31.000Z",
+        "description": "被很多人消磨了热情，现在只想躺平/大学在读/可爱的小猫@SakuraCatMoe/可以在这里问问题https://t.co/I5XJYBhxH7❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "SakuraCatMoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kafei684134",
+                "end": 72,
+                "expanded_url": "https://ngl.link/kafei684134",
+                "start": 49,
+                "url": "https://t.co/I5XJYBhxH7"
+              }
+            ]
+          }
+        },
+        "id": "1729678224068911104",
+        "is_identity_verified": false,
+        "location": "广西",
+        "most_recent_tweet_id": "2094249266063843425",
+        "name": "kafei",
+        "pinned_tweet_id": "1828627327221452865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729678224068911104/1776873076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800099030669860864/yYYgbPq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 459,
+          "like_count": 18405,
+          "listed_count": 2,
+          "media_count": 1533,
+          "tweet_count": 12826
+        },
+        "url": "",
+        "username": "kafei684134",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
