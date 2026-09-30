@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100960369149960192"
+      ]
+    },
+    "author_id": "1766858890636120064",
+    "conversation_id": "2100960434367164811",
+    "created_at": "2026-09-18T14:49:36.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100960434367164811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCMtROJaLy",
+          "end": 30,
+          "expanded_url": "https://x.com/Linyue7523/status/2100960434367164811/video/1",
+          "media_key": "13_2100960369149960192",
+          "start": 7,
+          "url": "https://t.co/tCMtROJaLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100960434367164811",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2100960369149960192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是天堂吗 https://t.co/tCMtROJaLy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22433,
+        "height": 720,
+        "media_key": "13_2100960369149960192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100960369149960192/img/OOpI1g_PWbxcJmOX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100960369149960192/vid/avc1/480x270/AxIuTjWpuahH0g9l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100960369149960192/vid/avc1/640x360/pahveSLq6GUfNznf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100960369149960192/vid/avc1/1280x720/pTdfaEZOH4VqIM3Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100960369149960192/pl/QjUSIWd9GSO5od0q.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100960369149960192"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2100960434367164811",
+        "created_at": "2026-09-18T14:49:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100960434367164811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCMtROJaLy",
+              "end": 30,
+              "expanded_url": "https://x.com/Linyue7523/status/2100960434367164811/video/1",
+              "media_key": "13_2100960369149960192",
+              "start": 7,
+              "url": "https://t.co/tCMtROJaLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100960434367164811",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100960369149960192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是天堂吗 https://t.co/tCMtROJaLy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🍥/hrt2023.5.6\n下一站是本次列车的终点站，番禺广场。可换乘3号线，18号线",
+        "id": "1766858890636120064",
+        "is_identity_verified": false,
+        "location": "番禺广场站A口",
+        "most_recent_tweet_id": "2100960434367164811",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766858890636120064/1779264195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3985,
+          "following_count": 1777,
+          "like_count": 23465,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "Linyue7523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
